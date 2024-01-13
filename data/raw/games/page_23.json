@@ -1,0 +1,2902 @@
+[
+    {
+        "id": 1965,
+        "date": "1996-02-13T00:00:00.000Z",
+        "home_team": {
+            "id": 17,
+            "abbreviation": "MIL",
+            "city": "Milwaukee",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Milwaukee Bucks",
+            "name": "Bucks"
+        },
+        "home_team_score": 101,
+        "period": 4,
+        "postseason": false,
+        "season": 1995,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 23,
+            "abbreviation": "PHI",
+            "city": "Philadelphia",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Philadelphia 76ers",
+            "name": "76ers"
+        },
+        "visitor_team_score": 104
+    },
+    {
+        "id": 1966,
+        "date": "1996-02-13T00:00:00.000Z",
+        "home_team": {
+            "id": 11,
+            "abbreviation": "HOU",
+            "city": "Houston",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "Houston Rockets",
+            "name": "Rockets"
+        },
+        "home_team_score": 121,
+        "period": 4,
+        "postseason": false,
+        "season": 1995,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 7,
+            "abbreviation": "DAL",
+            "city": "Dallas",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "Dallas Mavericks",
+            "name": "Mavericks"
+        },
+        "visitor_team_score": 106
+    },
+    {
+        "id": 1967,
+        "date": "1996-02-14T00:00:00.000Z",
+        "home_team": {
+            "id": 10,
+            "abbreviation": "GSW",
+            "city": "Golden State",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Golden State Warriors",
+            "name": "Warriors"
+        },
+        "home_team_score": 106,
+        "period": 4,
+        "postseason": false,
+        "season": 1995,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 2,
+            "abbreviation": "BOS",
+            "city": "Boston",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Boston Celtics",
+            "name": "Celtics"
+        },
+        "visitor_team_score": 103
+    },
+    {
+        "id": 1968,
+        "date": "1991-01-28T00:00:00.000Z",
+        "home_team": {
+            "id": 25,
+            "abbreviation": "POR",
+            "city": "Portland",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Portland Trail Blazers",
+            "name": "Trail Blazers"
+        },
+        "home_team_score": 116,
+        "period": 4,
+        "postseason": false,
+        "season": 1990,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 1,
+            "abbreviation": "ATL",
+            "city": "Atlanta",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Atlanta Hawks",
+            "name": "Hawks"
+        },
+        "visitor_team_score": 111
+    },
+    {
+        "id": 1969,
+        "date": "1991-01-28T00:00:00.000Z",
+        "home_team": {
+            "id": 18,
+            "abbreviation": "MIN",
+            "city": "Minnesota",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Minnesota Timberwolves",
+            "name": "Timberwolves"
+        },
+        "home_team_score": 87,
+        "period": 4,
+        "postseason": false,
+        "season": 1990,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 2,
+            "abbreviation": "BOS",
+            "city": "Boston",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Boston Celtics",
+            "name": "Celtics"
+        },
+        "visitor_team_score": 108
+    },
+    {
+        "id": 1970,
+        "date": "1991-01-29T00:00:00.000Z",
+        "home_team": {
+            "id": 17,
+            "abbreviation": "MIL",
+            "city": "Milwaukee",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Milwaukee Bucks",
+            "name": "Bucks"
+        },
+        "home_team_score": 122,
+        "period": 4,
+        "postseason": false,
+        "season": 1990,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 8,
+            "abbreviation": "DEN",
+            "city": "Denver",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Denver Nuggets",
+            "name": "Nuggets"
+        },
+        "visitor_team_score": 126
+    },
+    {
+        "id": 1971,
+        "date": "1991-01-29T00:00:00.000Z",
+        "home_team": {
+            "id": 13,
+            "abbreviation": "LAC",
+            "city": "LA",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "LA Clippers",
+            "name": "Clippers"
+        },
+        "home_team_score": 107,
+        "period": 4,
+        "postseason": false,
+        "season": 1990,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 20,
+            "abbreviation": "NYK",
+            "city": "New York",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "New York Knicks",
+            "name": "Knicks"
+        },
+        "visitor_team_score": 108
+    },
+    {
+        "id": 1972,
+        "date": "1991-03-29T00:00:00.000Z",
+        "home_team": {
+            "id": 21,
+            "abbreviation": "OKC",
+            "city": "Oklahoma City",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Oklahoma City Thunder",
+            "name": "Thunder"
+        },
+        "home_team_score": 117,
+        "period": 4,
+        "postseason": false,
+        "season": 1990,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 18,
+            "abbreviation": "MIN",
+            "city": "Minnesota",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Minnesota Timberwolves",
+            "name": "Timberwolves"
+        },
+        "visitor_team_score": 107
+    },
+    {
+        "id": 1973,
+        "date": "1991-03-30T00:00:00.000Z",
+        "home_team": {
+            "id": 21,
+            "abbreviation": "OKC",
+            "city": "Oklahoma City",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Oklahoma City Thunder",
+            "name": "Thunder"
+        },
+        "home_team_score": 115,
+        "period": 4,
+        "postseason": false,
+        "season": 1990,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 7,
+            "abbreviation": "DAL",
+            "city": "Dallas",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "Dallas Mavericks",
+            "name": "Mavericks"
+        },
+        "visitor_team_score": 102
+    },
+    {
+        "id": 1974,
+        "date": "1991-03-31T00:00:00.000Z",
+        "home_team": {
+            "id": 12,
+            "abbreviation": "IND",
+            "city": "Indiana",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Indiana Pacers",
+            "name": "Pacers"
+        },
+        "home_team_score": 127,
+        "period": 4,
+        "postseason": false,
+        "season": 1990,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 10,
+            "abbreviation": "GSW",
+            "city": "Golden State",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Golden State Warriors",
+            "name": "Warriors"
+        },
+        "visitor_team_score": 120
+    },
+    {
+        "id": 1975,
+        "date": "1991-04-02T00:00:00.000Z",
+        "home_team": {
+            "id": 23,
+            "abbreviation": "PHI",
+            "city": "Philadelphia",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Philadelphia 76ers",
+            "name": "76ers"
+        },
+        "home_team_score": 104,
+        "period": 4,
+        "postseason": false,
+        "season": 1990,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 17,
+            "abbreviation": "MIL",
+            "city": "Milwaukee",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Milwaukee Bucks",
+            "name": "Bucks"
+        },
+        "visitor_team_score": 121
+    },
+    {
+        "id": 1976,
+        "date": "1991-04-02T00:00:00.000Z",
+        "home_team": {
+            "id": 30,
+            "abbreviation": "WAS",
+            "city": "Washington",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Washington Wizards",
+            "name": "Wizards"
+        },
+        "home_team_score": 101,
+        "period": 4,
+        "postseason": false,
+        "season": 1990,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 6,
+            "abbreviation": "CLE",
+            "city": "Cleveland",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Cleveland Cavaliers",
+            "name": "Cavaliers"
+        },
+        "visitor_team_score": 82
+    },
+    {
+        "id": 1977,
+        "date": "1991-04-04T00:00:00.000Z",
+        "home_team": {
+            "id": 18,
+            "abbreviation": "MIN",
+            "city": "Minnesota",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Minnesota Timberwolves",
+            "name": "Timberwolves"
+        },
+        "home_team_score": 134,
+        "period": 4,
+        "postseason": false,
+        "season": 1990,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 8,
+            "abbreviation": "DEN",
+            "city": "Denver",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Denver Nuggets",
+            "name": "Nuggets"
+        },
+        "visitor_team_score": 122
+    },
+    {
+        "id": 1978,
+        "date": "1991-04-05T00:00:00.000Z",
+        "home_team": {
+            "id": 12,
+            "abbreviation": "IND",
+            "city": "Indiana",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Indiana Pacers",
+            "name": "Pacers"
+        },
+        "home_team_score": 117,
+        "period": 4,
+        "postseason": false,
+        "season": 1990,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 30,
+            "abbreviation": "WAS",
+            "city": "Washington",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Washington Wizards",
+            "name": "Wizards"
+        },
+        "visitor_team_score": 103
+    },
+    {
+        "id": 1979,
+        "date": "1991-04-07T00:00:00.000Z",
+        "home_team": {
+            "id": 18,
+            "abbreviation": "MIN",
+            "city": "Minnesota",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Minnesota Timberwolves",
+            "name": "Timberwolves"
+        },
+        "home_team_score": 87,
+        "period": 4,
+        "postseason": false,
+        "season": 1990,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 27,
+            "abbreviation": "SAS",
+            "city": "San Antonio",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "San Antonio Spurs",
+            "name": "Spurs"
+        },
+        "visitor_team_score": 92
+    },
+    {
+        "id": 1980,
+        "date": "1991-04-08T00:00:00.000Z",
+        "home_team": {
+            "id": 27,
+            "abbreviation": "SAS",
+            "city": "San Antonio",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "San Antonio Spurs",
+            "name": "Spurs"
+        },
+        "home_team_score": 115,
+        "period": 4,
+        "postseason": false,
+        "season": 1990,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 10,
+            "abbreviation": "GSW",
+            "city": "Golden State",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Golden State Warriors",
+            "name": "Warriors"
+        },
+        "visitor_team_score": 105
+    },
+    {
+        "id": 1981,
+        "date": "1991-04-09T00:00:00.000Z",
+        "home_team": {
+            "id": 5,
+            "abbreviation": "CHI",
+            "city": "Chicago",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Chicago Bulls",
+            "name": "Bulls"
+        },
+        "home_team_score": 108,
+        "period": 4,
+        "postseason": false,
+        "season": 1990,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 20,
+            "abbreviation": "NYK",
+            "city": "New York",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "New York Knicks",
+            "name": "Knicks"
+        },
+        "visitor_team_score": 106
+    },
+    {
+        "id": 1982,
+        "date": "1991-11-09T00:00:00.000Z",
+        "home_team": {
+            "id": 30,
+            "abbreviation": "WAS",
+            "city": "Washington",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Washington Wizards",
+            "name": "Wizards"
+        },
+        "home_team_score": 119,
+        "period": 4,
+        "postseason": false,
+        "season": 1991,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 10,
+            "abbreviation": "GSW",
+            "city": "Golden State",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Golden State Warriors",
+            "name": "Warriors"
+        },
+        "visitor_team_score": 127
+    },
+    {
+        "id": 1983,
+        "date": "1991-11-10T00:00:00.000Z",
+        "home_team": {
+            "id": 14,
+            "abbreviation": "LAL",
+            "city": "Los Angeles",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Los Angeles Lakers",
+            "name": "Lakers"
+        },
+        "home_team_score": 96,
+        "period": 4,
+        "postseason": false,
+        "season": 1991,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 18,
+            "abbreviation": "MIN",
+            "city": "Minnesota",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Minnesota Timberwolves",
+            "name": "Timberwolves"
+        },
+        "visitor_team_score": 86
+    },
+    {
+        "id": 1984,
+        "date": "1991-11-11T00:00:00.000Z",
+        "home_team": {
+            "id": 29,
+            "abbreviation": "UTA",
+            "city": "Utah",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Utah Jazz",
+            "name": "Jazz"
+        },
+        "home_team_score": 105,
+        "period": 4,
+        "postseason": false,
+        "season": 1991,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 26,
+            "abbreviation": "SAC",
+            "city": "Sacramento",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Sacramento Kings",
+            "name": "Kings"
+        },
+        "visitor_team_score": 90
+    },
+    {
+        "id": 1985,
+        "date": "1991-11-12T00:00:00.000Z",
+        "home_team": {
+            "id": 20,
+            "abbreviation": "NYK",
+            "city": "New York",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "New York Knicks",
+            "name": "Knicks"
+        },
+        "home_team_score": 98,
+        "period": 4,
+        "postseason": false,
+        "season": 1991,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 3,
+            "abbreviation": "BKN",
+            "city": "Brooklyn",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Brooklyn Nets",
+            "name": "Nets"
+        },
+        "visitor_team_score": 96
+    },
+    {
+        "id": 1986,
+        "date": "1991-11-15T00:00:00.000Z",
+        "home_team": {
+            "id": 18,
+            "abbreviation": "MIN",
+            "city": "Minnesota",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Minnesota Timberwolves",
+            "name": "Timberwolves"
+        },
+        "home_team_score": 102,
+        "period": 4,
+        "postseason": false,
+        "season": 1991,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 25,
+            "abbreviation": "POR",
+            "city": "Portland",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Portland Trail Blazers",
+            "name": "Trail Blazers"
+        },
+        "visitor_team_score": 107
+    },
+    {
+        "id": 1987,
+        "date": "1991-11-16T00:00:00.000Z",
+        "home_team": {
+            "id": 13,
+            "abbreviation": "LAC",
+            "city": "LA",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "LA Clippers",
+            "name": "Clippers"
+        },
+        "home_team_score": 105,
+        "period": 4,
+        "postseason": false,
+        "season": 1991,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 10,
+            "abbreviation": "GSW",
+            "city": "Golden State",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Golden State Warriors",
+            "name": "Warriors"
+        },
+        "visitor_team_score": 123
+    },
+    {
+        "id": 1988,
+        "date": "1991-11-19T00:00:00.000Z",
+        "home_team": {
+            "id": 16,
+            "abbreviation": "MIA",
+            "city": "Miami",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Miami Heat",
+            "name": "Heat"
+        },
+        "home_team_score": 111,
+        "period": 4,
+        "postseason": false,
+        "season": 1991,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 29,
+            "abbreviation": "UTA",
+            "city": "Utah",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Utah Jazz",
+            "name": "Jazz"
+        },
+        "visitor_team_score": 89
+    },
+    {
+        "id": 1989,
+        "date": "1991-11-20T00:00:00.000Z",
+        "home_team": {
+            "id": 2,
+            "abbreviation": "BOS",
+            "city": "Boston",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Boston Celtics",
+            "name": "Celtics"
+        },
+        "home_team_score": 116,
+        "period": 4,
+        "postseason": false,
+        "season": 1991,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 12,
+            "abbreviation": "IND",
+            "city": "Indiana",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Indiana Pacers",
+            "name": "Pacers"
+        },
+        "visitor_team_score": 101
+    },
+    {
+        "id": 1990,
+        "date": "1991-11-22T00:00:00.000Z",
+        "home_team": {
+            "id": 9,
+            "abbreviation": "DET",
+            "city": "Detroit",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Detroit Pistons",
+            "name": "Pistons"
+        },
+        "home_team_score": 90,
+        "period": 4,
+        "postseason": false,
+        "season": 1991,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 20,
+            "abbreviation": "NYK",
+            "city": "New York",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "New York Knicks",
+            "name": "Knicks"
+        },
+        "visitor_team_score": 99
+    },
+    {
+        "id": 1991,
+        "date": "1991-11-23T00:00:00.000Z",
+        "home_team": {
+            "id": 3,
+            "abbreviation": "BKN",
+            "city": "Brooklyn",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Brooklyn Nets",
+            "name": "Nets"
+        },
+        "home_team_score": 107,
+        "period": 4,
+        "postseason": false,
+        "season": 1991,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 2,
+            "abbreviation": "BOS",
+            "city": "Boston",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Boston Celtics",
+            "name": "Celtics"
+        },
+        "visitor_team_score": 125
+    },
+    {
+        "id": 1992,
+        "date": "1991-11-26T00:00:00.000Z",
+        "home_team": {
+            "id": 8,
+            "abbreviation": "DEN",
+            "city": "Denver",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Denver Nuggets",
+            "name": "Nuggets"
+        },
+        "home_team_score": 103,
+        "period": 4,
+        "postseason": false,
+        "season": 1991,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 4,
+            "abbreviation": "CHA",
+            "city": "Charlotte",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Charlotte Hornets",
+            "name": "Hornets"
+        },
+        "visitor_team_score": 97
+    },
+    {
+        "id": 1993,
+        "date": "1991-11-27T00:00:00.000Z",
+        "home_team": {
+            "id": 27,
+            "abbreviation": "SAS",
+            "city": "San Antonio",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "San Antonio Spurs",
+            "name": "Spurs"
+        },
+        "home_team_score": 106,
+        "period": 4,
+        "postseason": false,
+        "season": 1991,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 3,
+            "abbreviation": "BKN",
+            "city": "Brooklyn",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Brooklyn Nets",
+            "name": "Nets"
+        },
+        "visitor_team_score": 100
+    },
+    {
+        "id": 1994,
+        "date": "1991-11-29T00:00:00.000Z",
+        "home_team": {
+            "id": 6,
+            "abbreviation": "CLE",
+            "city": "Cleveland",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Cleveland Cavaliers",
+            "name": "Cavaliers"
+        },
+        "home_team_score": 115,
+        "period": 4,
+        "postseason": false,
+        "season": 1991,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 22,
+            "abbreviation": "ORL",
+            "city": "Orlando",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Orlando Magic",
+            "name": "Magic"
+        },
+        "visitor_team_score": 104
+    },
+    {
+        "id": 1995,
+        "date": "1991-11-30T00:00:00.000Z",
+        "home_team": {
+            "id": 26,
+            "abbreviation": "SAC",
+            "city": "Sacramento",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Sacramento Kings",
+            "name": "Kings"
+        },
+        "home_team_score": 102,
+        "period": 4,
+        "postseason": false,
+        "season": 1991,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 5,
+            "abbreviation": "CHI",
+            "city": "Chicago",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Chicago Bulls",
+            "name": "Bulls"
+        },
+        "visitor_team_score": 118
+    },
+    {
+        "id": 1996,
+        "date": "1991-12-03T00:00:00.000Z",
+        "home_team": {
+            "id": 17,
+            "abbreviation": "MIL",
+            "city": "Milwaukee",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Milwaukee Bucks",
+            "name": "Bucks"
+        },
+        "home_team_score": 126,
+        "period": 4,
+        "postseason": false,
+        "season": 1991,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 14,
+            "abbreviation": "LAL",
+            "city": "Los Angeles",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Los Angeles Lakers",
+            "name": "Lakers"
+        },
+        "visitor_team_score": 94
+    },
+    {
+        "id": 1997,
+        "date": "1991-12-06T00:00:00.000Z",
+        "home_team": {
+            "id": 3,
+            "abbreviation": "BKN",
+            "city": "Brooklyn",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Brooklyn Nets",
+            "name": "Nets"
+        },
+        "home_team_score": 89,
+        "period": 4,
+        "postseason": false,
+        "season": 1991,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 14,
+            "abbreviation": "LAL",
+            "city": "Los Angeles",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Los Angeles Lakers",
+            "name": "Lakers"
+        },
+        "visitor_team_score": 98
+    },
+    {
+        "id": 1998,
+        "date": "1991-12-07T00:00:00.000Z",
+        "home_team": {
+            "id": 16,
+            "abbreviation": "MIA",
+            "city": "Miami",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Miami Heat",
+            "name": "Heat"
+        },
+        "home_team_score": 108,
+        "period": 4,
+        "postseason": false,
+        "season": 1991,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 24,
+            "abbreviation": "PHX",
+            "city": "Phoenix",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Phoenix Suns",
+            "name": "Suns"
+        },
+        "visitor_team_score": 109
+    },
+    {
+        "id": 1999,
+        "date": "1991-12-08T00:00:00.000Z",
+        "home_team": {
+            "id": 14,
+            "abbreviation": "LAL",
+            "city": "Los Angeles",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Los Angeles Lakers",
+            "name": "Lakers"
+        },
+        "home_team_score": 103,
+        "period": 4,
+        "postseason": false,
+        "season": 1991,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 7,
+            "abbreviation": "DAL",
+            "city": "Dallas",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "Dallas Mavericks",
+            "name": "Mavericks"
+        },
+        "visitor_team_score": 88
+    },
+    {
+        "id": 2000,
+        "date": "1991-12-10T00:00:00.000Z",
+        "home_team": {
+            "id": 5,
+            "abbreviation": "CHI",
+            "city": "Chicago",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Chicago Bulls",
+            "name": "Bulls"
+        },
+        "home_team_score": 108,
+        "period": 4,
+        "postseason": false,
+        "season": 1991,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 21,
+            "abbreviation": "OKC",
+            "city": "Oklahoma City",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Oklahoma City Thunder",
+            "name": "Thunder"
+        },
+        "visitor_team_score": 103
+    },
+    {
+        "id": 2001,
+        "date": "1991-12-11T00:00:00.000Z",
+        "home_team": {
+            "id": 20,
+            "abbreviation": "NYK",
+            "city": "New York",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "New York Knicks",
+            "name": "Knicks"
+        },
+        "home_team_score": 96,
+        "period": 4,
+        "postseason": false,
+        "season": 1991,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 21,
+            "abbreviation": "OKC",
+            "city": "Oklahoma City",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Oklahoma City Thunder",
+            "name": "Thunder"
+        },
+        "visitor_team_score": 87
+    },
+    {
+        "id": 2002,
+        "date": "1991-12-12T00:00:00.000Z",
+        "home_team": {
+            "id": 3,
+            "abbreviation": "BKN",
+            "city": "Brooklyn",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Brooklyn Nets",
+            "name": "Nets"
+        },
+        "home_team_score": 121,
+        "period": 4,
+        "postseason": false,
+        "season": 1991,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 8,
+            "abbreviation": "DEN",
+            "city": "Denver",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Denver Nuggets",
+            "name": "Nuggets"
+        },
+        "visitor_team_score": 81
+    },
+    {
+        "id": 2003,
+        "date": "1991-12-13T00:00:00.000Z",
+        "home_team": {
+            "id": 27,
+            "abbreviation": "SAS",
+            "city": "San Antonio",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "San Antonio Spurs",
+            "name": "Spurs"
+        },
+        "home_team_score": 107,
+        "period": 4,
+        "postseason": false,
+        "season": 1991,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 24,
+            "abbreviation": "PHX",
+            "city": "Phoenix",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Phoenix Suns",
+            "name": "Suns"
+        },
+        "visitor_team_score": 112
+    },
+    {
+        "id": 2004,
+        "date": "1991-12-14T00:00:00.000Z",
+        "home_team": {
+            "id": 23,
+            "abbreviation": "PHI",
+            "city": "Philadelphia",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Philadelphia 76ers",
+            "name": "76ers"
+        },
+        "home_team_score": 104,
+        "period": 4,
+        "postseason": false,
+        "season": 1991,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 21,
+            "abbreviation": "OKC",
+            "city": "Oklahoma City",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Oklahoma City Thunder",
+            "name": "Thunder"
+        },
+        "visitor_team_score": 95
+    },
+    {
+        "id": 2005,
+        "date": "1992-11-06T00:00:00.000Z",
+        "home_team": {
+            "id": 29,
+            "abbreviation": "UTA",
+            "city": "Utah",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Utah Jazz",
+            "name": "Jazz"
+        },
+        "home_team_score": 107,
+        "period": 4,
+        "postseason": false,
+        "season": 1992,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 10,
+            "abbreviation": "GSW",
+            "city": "Golden State",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Golden State Warriors",
+            "name": "Warriors"
+        },
+        "visitor_team_score": 129
+    },
+    {
+        "id": 2006,
+        "date": "1992-11-06T00:00:00.000Z",
+        "home_team": {
+            "id": 11,
+            "abbreviation": "HOU",
+            "city": "Houston",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "Houston Rockets",
+            "name": "Rockets"
+        },
+        "home_team_score": 94,
+        "period": 4,
+        "postseason": false,
+        "season": 1992,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 21,
+            "abbreviation": "OKC",
+            "city": "Oklahoma City",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Oklahoma City Thunder",
+            "name": "Thunder"
+        },
+        "visitor_team_score": 111
+    },
+    {
+        "id": 2007,
+        "date": "1992-11-07T00:00:00.000Z",
+        "home_team": {
+            "id": 8,
+            "abbreviation": "DEN",
+            "city": "Denver",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Denver Nuggets",
+            "name": "Nuggets"
+        },
+        "home_team_score": 125,
+        "period": 4,
+        "postseason": false,
+        "season": 1992,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 27,
+            "abbreviation": "SAS",
+            "city": "San Antonio",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "San Antonio Spurs",
+            "name": "Spurs"
+        },
+        "visitor_team_score": 121
+    },
+    {
+        "id": 2008,
+        "date": "1992-11-10T00:00:00.000Z",
+        "home_team": {
+            "id": 26,
+            "abbreviation": "SAC",
+            "city": "Sacramento",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Sacramento Kings",
+            "name": "Kings"
+        },
+        "home_team_score": 99,
+        "period": 4,
+        "postseason": false,
+        "season": 1992,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 13,
+            "abbreviation": "LAC",
+            "city": "LA",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "LA Clippers",
+            "name": "Clippers"
+        },
+        "visitor_team_score": 97
+    },
+    {
+        "id": 2009,
+        "date": "1992-11-11T00:00:00.000Z",
+        "home_team": {
+            "id": 4,
+            "abbreviation": "CHA",
+            "city": "Charlotte",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Charlotte Hornets",
+            "name": "Hornets"
+        },
+        "home_team_score": 99,
+        "period": 4,
+        "postseason": false,
+        "season": 1992,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 2,
+            "abbreviation": "BOS",
+            "city": "Boston",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Boston Celtics",
+            "name": "Celtics"
+        },
+        "visitor_team_score": 109
+    },
+    {
+        "id": 2010,
+        "date": "1992-11-12T00:00:00.000Z",
+        "home_team": {
+            "id": 21,
+            "abbreviation": "OKC",
+            "city": "Oklahoma City",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Oklahoma City Thunder",
+            "name": "Thunder"
+        },
+        "home_team_score": 114,
+        "period": 4,
+        "postseason": false,
+        "season": 1992,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 14,
+            "abbreviation": "LAL",
+            "city": "Los Angeles",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Los Angeles Lakers",
+            "name": "Lakers"
+        },
+        "visitor_team_score": 102
+    },
+    {
+        "id": 2011,
+        "date": "1992-11-14T00:00:00.000Z",
+        "home_team": {
+            "id": 3,
+            "abbreviation": "BKN",
+            "city": "Brooklyn",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Brooklyn Nets",
+            "name": "Nets"
+        },
+        "home_team_score": 124,
+        "period": 4,
+        "postseason": false,
+        "season": 1992,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 22,
+            "abbreviation": "ORL",
+            "city": "Orlando",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Orlando Magic",
+            "name": "Magic"
+        },
+        "visitor_team_score": 113
+    },
+    {
+        "id": 2012,
+        "date": "1992-11-17T00:00:00.000Z",
+        "home_team": {
+            "id": 13,
+            "abbreviation": "LAC",
+            "city": "LA",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "LA Clippers",
+            "name": "Clippers"
+        },
+        "home_team_score": 115,
+        "period": 4,
+        "postseason": false,
+        "season": 1992,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 9,
+            "abbreviation": "DET",
+            "city": "Detroit",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Detroit Pistons",
+            "name": "Pistons"
+        },
+        "visitor_team_score": 106
+    },
+    {
+        "id": 2013,
+        "date": "1992-11-18T00:00:00.000Z",
+        "home_team": {
+            "id": 2,
+            "abbreviation": "BOS",
+            "city": "Boston",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Boston Celtics",
+            "name": "Celtics"
+        },
+        "home_team_score": 91,
+        "period": 4,
+        "postseason": false,
+        "season": 1992,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 29,
+            "abbreviation": "UTA",
+            "city": "Utah",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Utah Jazz",
+            "name": "Jazz"
+        },
+        "visitor_team_score": 92
+    },
+    {
+        "id": 2014,
+        "date": "1992-11-19T00:00:00.000Z",
+        "home_team": {
+            "id": 27,
+            "abbreviation": "SAS",
+            "city": "San Antonio",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "San Antonio Spurs",
+            "name": "Spurs"
+        },
+        "home_team_score": 123,
+        "period": 4,
+        "postseason": false,
+        "season": 1992,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 7,
+            "abbreviation": "DAL",
+            "city": "Dallas",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "Dallas Mavericks",
+            "name": "Mavericks"
+        },
+        "visitor_team_score": 95
+    },
+    {
+        "id": 2015,
+        "date": "1992-11-20T00:00:00.000Z",
+        "home_team": {
+            "id": 18,
+            "abbreviation": "MIN",
+            "city": "Minnesota",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Minnesota Timberwolves",
+            "name": "Timberwolves"
+        },
+        "home_team_score": 100,
+        "period": 4,
+        "postseason": false,
+        "season": 1992,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 30,
+            "abbreviation": "WAS",
+            "city": "Washington",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Washington Wizards",
+            "name": "Wizards"
+        },
+        "visitor_team_score": 108
+    },
+    {
+        "id": 2016,
+        "date": "1992-11-21T00:00:00.000Z",
+        "home_team": {
+            "id": 1,
+            "abbreviation": "ATL",
+            "city": "Atlanta",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Atlanta Hawks",
+            "name": "Hawks"
+        },
+        "home_team_score": 116,
+        "period": 4,
+        "postseason": false,
+        "season": 1992,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 2,
+            "abbreviation": "BOS",
+            "city": "Boston",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Boston Celtics",
+            "name": "Celtics"
+        },
+        "visitor_team_score": 107
+    },
+    {
+        "id": 2017,
+        "date": "1993-03-30T00:00:00.000Z",
+        "home_team": {
+            "id": 4,
+            "abbreviation": "CHA",
+            "city": "Charlotte",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Charlotte Hornets",
+            "name": "Hornets"
+        },
+        "home_team_score": 89,
+        "period": 4,
+        "postseason": false,
+        "season": 1992,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 16,
+            "abbreviation": "MIA",
+            "city": "Miami",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Miami Heat",
+            "name": "Heat"
+        },
+        "visitor_team_score": 116
+    },
+    {
+        "id": 2018,
+        "date": "1993-03-31T00:00:00.000Z",
+        "home_team": {
+            "id": 8,
+            "abbreviation": "DEN",
+            "city": "Denver",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Denver Nuggets",
+            "name": "Nuggets"
+        },
+        "home_team_score": 94,
+        "period": 4,
+        "postseason": false,
+        "season": 1992,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 1,
+            "abbreviation": "ATL",
+            "city": "Atlanta",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Atlanta Hawks",
+            "name": "Hawks"
+        },
+        "visitor_team_score": 103
+    },
+    {
+        "id": 2019,
+        "date": "1993-04-01T00:00:00.000Z",
+        "home_team": {
+            "id": 11,
+            "abbreviation": "HOU",
+            "city": "Houston",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "Houston Rockets",
+            "name": "Rockets"
+        },
+        "home_team_score": 121,
+        "period": 4,
+        "postseason": false,
+        "season": 1992,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 17,
+            "abbreviation": "MIL",
+            "city": "Milwaukee",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Milwaukee Bucks",
+            "name": "Bucks"
+        },
+        "visitor_team_score": 115
+    },
+    {
+        "id": 2020,
+        "date": "1993-04-02T00:00:00.000Z",
+        "home_team": {
+            "id": 27,
+            "abbreviation": "SAS",
+            "city": "San Antonio",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "San Antonio Spurs",
+            "name": "Spurs"
+        },
+        "home_team_score": 108,
+        "period": 4,
+        "postseason": false,
+        "season": 1992,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 18,
+            "abbreviation": "MIN",
+            "city": "Minnesota",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Minnesota Timberwolves",
+            "name": "Timberwolves"
+        },
+        "visitor_team_score": 101
+    },
+    {
+        "id": 2021,
+        "date": "1993-04-02T00:00:00.000Z",
+        "home_team": {
+            "id": 7,
+            "abbreviation": "DAL",
+            "city": "Dallas",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "Dallas Mavericks",
+            "name": "Mavericks"
+        },
+        "home_team_score": 93,
+        "period": 4,
+        "postseason": false,
+        "season": 1992,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 10,
+            "abbreviation": "GSW",
+            "city": "Golden State",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Golden State Warriors",
+            "name": "Warriors"
+        },
+        "visitor_team_score": 134
+    },
+    {
+        "id": 2022,
+        "date": "1993-04-03T00:00:00.000Z",
+        "home_team": {
+            "id": 30,
+            "abbreviation": "WAS",
+            "city": "Washington",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Washington Wizards",
+            "name": "Wizards"
+        },
+        "home_team_score": 114,
+        "period": 4,
+        "postseason": false,
+        "season": 1992,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 25,
+            "abbreviation": "POR",
+            "city": "Portland",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Portland Trail Blazers",
+            "name": "Trail Blazers"
+        },
+        "visitor_team_score": 102
+    },
+    {
+        "id": 2023,
+        "date": "1993-04-04T00:00:00.000Z",
+        "home_team": {
+            "id": 14,
+            "abbreviation": "LAL",
+            "city": "Los Angeles",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Los Angeles Lakers",
+            "name": "Lakers"
+        },
+        "home_team_score": 99,
+        "period": 4,
+        "postseason": false,
+        "season": 1992,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 29,
+            "abbreviation": "UTA",
+            "city": "Utah",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Utah Jazz",
+            "name": "Jazz"
+        },
+        "visitor_team_score": 111
+    },
+    {
+        "id": 2024,
+        "date": "1993-04-06T00:00:00.000Z",
+        "home_team": {
+            "id": 3,
+            "abbreviation": "BKN",
+            "city": "Brooklyn",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Brooklyn Nets",
+            "name": "Nets"
+        },
+        "home_team_score": 85,
+        "period": 4,
+        "postseason": false,
+        "season": 1992,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 12,
+            "abbreviation": "IND",
+            "city": "Indiana",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Indiana Pacers",
+            "name": "Pacers"
+        },
+        "visitor_team_score": 98
+    },
+    {
+        "id": 2025,
+        "date": "1993-04-08T00:00:00.000Z",
+        "home_team": {
+            "id": 29,
+            "abbreviation": "UTA",
+            "city": "Utah",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Utah Jazz",
+            "name": "Jazz"
+        },
+        "home_team_score": 90,
+        "period": 4,
+        "postseason": false,
+        "season": 1992,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 11,
+            "abbreviation": "HOU",
+            "city": "Houston",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "Houston Rockets",
+            "name": "Rockets"
+        },
+        "visitor_team_score": 95
+    },
+    {
+        "id": 2026,
+        "date": "1993-04-09T00:00:00.000Z",
+        "home_team": {
+            "id": 21,
+            "abbreviation": "OKC",
+            "city": "Oklahoma City",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Oklahoma City Thunder",
+            "name": "Thunder"
+        },
+        "home_team_score": 111,
+        "period": 4,
+        "postseason": false,
+        "season": 1992,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 26,
+            "abbreviation": "SAC",
+            "city": "Sacramento",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Sacramento Kings",
+            "name": "Kings"
+        },
+        "visitor_team_score": 97
+    },
+    {
+        "id": 2027,
+        "date": "1993-04-10T00:00:00.000Z",
+        "home_team": {
+            "id": 17,
+            "abbreviation": "MIL",
+            "city": "Milwaukee",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Milwaukee Bucks",
+            "name": "Bucks"
+        },
+        "home_team_score": 108,
+        "period": 4,
+        "postseason": false,
+        "season": 1992,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 22,
+            "abbreviation": "ORL",
+            "city": "Orlando",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Orlando Magic",
+            "name": "Magic"
+        },
+        "visitor_team_score": 97
+    },
+    {
+        "id": 2028,
+        "date": "1993-04-11T00:00:00.000Z",
+        "home_team": {
+            "id": 30,
+            "abbreviation": "WAS",
+            "city": "Washington",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Washington Wizards",
+            "name": "Wizards"
+        },
+        "home_team_score": 94,
+        "period": 4,
+        "postseason": false,
+        "season": 1992,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 9,
+            "abbreviation": "DET",
+            "city": "Detroit",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Detroit Pistons",
+            "name": "Pistons"
+        },
+        "visitor_team_score": 106
+    },
+    {
+        "id": 2029,
+        "date": "1993-04-12T00:00:00.000Z",
+        "home_team": {
+            "id": 29,
+            "abbreviation": "UTA",
+            "city": "Utah",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Utah Jazz",
+            "name": "Jazz"
+        },
+        "home_team_score": 103,
+        "period": 4,
+        "postseason": false,
+        "season": 1992,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 7,
+            "abbreviation": "DAL",
+            "city": "Dallas",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "Dallas Mavericks",
+            "name": "Mavericks"
+        },
+        "visitor_team_score": 94
+    },
+    {
+        "id": 2030,
+        "date": "1993-04-13T00:00:00.000Z",
+        "home_team": {
+            "id": 11,
+            "abbreviation": "HOU",
+            "city": "Houston",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "Houston Rockets",
+            "name": "Rockets"
+        },
+        "home_team_score": 126,
+        "period": 4,
+        "postseason": false,
+        "season": 1992,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 14,
+            "abbreviation": "LAL",
+            "city": "Los Angeles",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Los Angeles Lakers",
+            "name": "Lakers"
+        },
+        "visitor_team_score": 107
+    },
+    {
+        "id": 2031,
+        "date": "1993-04-14T00:00:00.000Z",
+        "home_team": {
+            "id": 5,
+            "abbreviation": "CHI",
+            "city": "Chicago",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Chicago Bulls",
+            "name": "Bulls"
+        },
+        "home_team_score": 119,
+        "period": 4,
+        "postseason": false,
+        "season": 1992,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 16,
+            "abbreviation": "MIA",
+            "city": "Miami",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Miami Heat",
+            "name": "Heat"
+        },
+        "visitor_team_score": 92
+    },
+    {
+        "id": 2032,
+        "date": "1993-04-16T00:00:00.000Z",
+        "home_team": {
+            "id": 4,
+            "abbreviation": "CHA",
+            "city": "Charlotte",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Charlotte Hornets",
+            "name": "Hornets"
+        },
+        "home_team_score": 127,
+        "period": 4,
+        "postseason": false,
+        "season": 1992,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 9,
+            "abbreviation": "DET",
+            "city": "Detroit",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Detroit Pistons",
+            "name": "Pistons"
+        },
+        "visitor_team_score": 93
+    },
+    {
+        "id": 2033,
+        "date": "1993-04-20T00:00:00.000Z",
+        "home_team": {
+            "id": 22,
+            "abbreviation": "ORL",
+            "city": "Orlando",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Orlando Magic",
+            "name": "Magic"
+        },
+        "home_team_score": 105,
+        "period": 4,
+        "postseason": false,
+        "season": 1992,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 30,
+            "abbreviation": "WAS",
+            "city": "Washington",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Washington Wizards",
+            "name": "Wizards"
+        },
+        "visitor_team_score": 86
+    },
+    {
+        "id": 2034,
+        "date": "1993-04-21T00:00:00.000Z",
+        "home_team": {
+            "id": 12,
+            "abbreviation": "IND",
+            "city": "Indiana",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Indiana Pacers",
+            "name": "Pacers"
+        },
+        "home_team_score": 95,
+        "period": 4,
+        "postseason": false,
+        "season": 1992,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 6,
+            "abbreviation": "CLE",
+            "city": "Cleveland",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Cleveland Cavaliers",
+            "name": "Cavaliers"
+        },
+        "visitor_team_score": 111
+    },
+    {
+        "id": 2035,
+        "date": "1993-04-22T00:00:00.000Z",
+        "home_team": {
+            "id": 27,
+            "abbreviation": "SAS",
+            "city": "San Antonio",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "San Antonio Spurs",
+            "name": "Spurs"
+        },
+        "home_team_score": 131,
+        "period": 4,
+        "postseason": false,
+        "season": 1992,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 8,
+            "abbreviation": "DEN",
+            "city": "Denver",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Denver Nuggets",
+            "name": "Nuggets"
+        },
+        "visitor_team_score": 111
+    },
+    {
+        "id": 2036,
+        "date": "1993-04-23T00:00:00.000Z",
+        "home_team": {
+            "id": 21,
+            "abbreviation": "OKC",
+            "city": "Oklahoma City",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Oklahoma City Thunder",
+            "name": "Thunder"
+        },
+        "home_team_score": 122,
+        "period": 4,
+        "postseason": false,
+        "season": 1992,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 14,
+            "abbreviation": "LAL",
+            "city": "Los Angeles",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Los Angeles Lakers",
+            "name": "Lakers"
+        },
+        "visitor_team_score": 93
+    },
+    {
+        "id": 2037,
+        "date": "1994-02-20T00:00:00.000Z",
+        "home_team": {
+            "id": 20,
+            "abbreviation": "NYK",
+            "city": "New York",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "New York Knicks",
+            "name": "Knicks"
+        },
+        "home_team_score": 86,
+        "period": 4,
+        "postseason": false,
+        "season": 1993,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 5,
+            "abbreviation": "CHI",
+            "city": "Chicago",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Chicago Bulls",
+            "name": "Bulls"
+        },
+        "visitor_team_score": 68
+    },
+    {
+        "id": 2038,
+        "date": "1994-02-21T00:00:00.000Z",
+        "home_team": {
+            "id": 18,
+            "abbreviation": "MIN",
+            "city": "Minnesota",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Minnesota Timberwolves",
+            "name": "Timberwolves"
+        },
+        "home_team_score": 89,
+        "period": 4,
+        "postseason": false,
+        "season": 1993,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 27,
+            "abbreviation": "SAS",
+            "city": "San Antonio",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "San Antonio Spurs",
+            "name": "Spurs"
+        },
+        "visitor_team_score": 114
+    },
+    {
+        "id": 2039,
+        "date": "1994-02-22T00:00:00.000Z",
+        "home_team": {
+            "id": 20,
+            "abbreviation": "NYK",
+            "city": "New York",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "New York Knicks",
+            "name": "Knicks"
+        },
+        "home_team_score": 82,
+        "period": 4,
+        "postseason": false,
+        "season": 1993,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 21,
+            "abbreviation": "OKC",
+            "city": "Oklahoma City",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Oklahoma City Thunder",
+            "name": "Thunder"
+        },
+        "visitor_team_score": 93
+    },
+    {
+        "id": 2040,
+        "date": "1994-02-23T00:00:00.000Z",
+        "home_team": {
+            "id": 29,
+            "abbreviation": "UTA",
+            "city": "Utah",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Utah Jazz",
+            "name": "Jazz"
+        },
+        "home_team_score": 106,
+        "period": 4,
+        "postseason": false,
+        "season": 1993,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 27,
+            "abbreviation": "SAS",
+            "city": "San Antonio",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "San Antonio Spurs",
+            "name": "Spurs"
+        },
+        "visitor_team_score": 102
+    },
+    {
+        "id": 2041,
+        "date": "1994-02-24T00:00:00.000Z",
+        "home_team": {
+            "id": 18,
+            "abbreviation": "MIN",
+            "city": "Minnesota",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Minnesota Timberwolves",
+            "name": "Timberwolves"
+        },
+        "home_team_score": 101,
+        "period": 4,
+        "postseason": false,
+        "season": 1993,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 24,
+            "abbreviation": "PHX",
+            "city": "Phoenix",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Phoenix Suns",
+            "name": "Suns"
+        },
+        "visitor_team_score": 120
+    },
+    {
+        "id": 2042,
+        "date": "1994-02-25T00:00:00.000Z",
+        "home_team": {
+            "id": 23,
+            "abbreviation": "PHI",
+            "city": "Philadelphia",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Philadelphia 76ers",
+            "name": "76ers"
+        },
+        "home_team_score": 84,
+        "period": 4,
+        "postseason": false,
+        "season": 1993,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 16,
+            "abbreviation": "MIA",
+            "city": "Miami",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Miami Heat",
+            "name": "Heat"
+        },
+        "visitor_team_score": 115
+    },
+    {
+        "id": 2043,
+        "date": "1994-02-25T00:00:00.000Z",
+        "home_team": {
+            "id": 22,
+            "abbreviation": "ORL",
+            "city": "Orlando",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Orlando Magic",
+            "name": "Magic"
+        },
+        "home_team_score": 114,
+        "period": 4,
+        "postseason": false,
+        "season": 1993,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 3,
+            "abbreviation": "BKN",
+            "city": "Brooklyn",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Brooklyn Nets",
+            "name": "Nets"
+        },
+        "visitor_team_score": 102
+    },
+    {
+        "id": 2044,
+        "date": "1994-02-26T00:00:00.000Z",
+        "home_team": {
+            "id": 23,
+            "abbreviation": "PHI",
+            "city": "Philadelphia",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Philadelphia 76ers",
+            "name": "76ers"
+        },
+        "home_team_score": 102,
+        "period": 4,
+        "postseason": false,
+        "season": 1993,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 1,
+            "abbreviation": "ATL",
+            "city": "Atlanta",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Atlanta Hawks",
+            "name": "Hawks"
+        },
+        "visitor_team_score": 118
+    },
+    {
+        "id": 2045,
+        "date": "1994-02-27T00:00:00.000Z",
+        "home_team": {
+            "id": 22,
+            "abbreviation": "ORL",
+            "city": "Orlando",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Orlando Magic",
+            "name": "Magic"
+        },
+        "home_team_score": 114,
+        "period": 4,
+        "postseason": false,
+        "season": 1993,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 4,
+            "abbreviation": "CHA",
+            "city": "Charlotte",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Charlotte Hornets",
+            "name": "Hornets"
+        },
+        "visitor_team_score": 103
+    },
+    {
+        "id": 2046,
+        "date": "1994-02-28T00:00:00.000Z",
+        "home_team": {
+            "id": 29,
+            "abbreviation": "UTA",
+            "city": "Utah",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Utah Jazz",
+            "name": "Jazz"
+        },
+        "home_team_score": 89,
+        "period": 4,
+        "postseason": false,
+        "season": 1993,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 11,
+            "abbreviation": "HOU",
+            "city": "Houston",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "Houston Rockets",
+            "name": "Rockets"
+        },
+        "visitor_team_score": 85
+    },
+    {
+        "id": 2047,
+        "date": "1994-03-01T00:00:00.000Z",
+        "home_team": {
+            "id": 21,
+            "abbreviation": "OKC",
+            "city": "Oklahoma City",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Oklahoma City Thunder",
+            "name": "Thunder"
+        },
+        "home_team_score": 112,
+        "period": 4,
+        "postseason": false,
+        "season": 1993,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 4,
+            "abbreviation": "CHA",
+            "city": "Charlotte",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Charlotte Hornets",
+            "name": "Hornets"
+        },
+        "visitor_team_score": 96
+    },
+    {
+        "id": 2048,
+        "date": "1994-03-01T00:00:00.000Z",
+        "home_team": {
+            "id": 26,
+            "abbreviation": "SAC",
+            "city": "Sacramento",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Sacramento Kings",
+            "name": "Kings"
+        },
+        "home_team_score": 88,
+        "period": 4,
+        "postseason": false,
+        "season": 1993,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 20,
+            "abbreviation": "NYK",
+            "city": "New York",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "New York Knicks",
+            "name": "Knicks"
+        },
+        "visitor_team_score": 100
+    },
+    {
+        "id": 2049,
+        "date": "1994-03-02T00:00:00.000Z",
+        "home_team": {
+            "id": 2,
+            "abbreviation": "BOS",
+            "city": "Boston",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Boston Celtics",
+            "name": "Celtics"
+        },
+        "home_team_score": 96,
+        "period": 4,
+        "postseason": false,
+        "season": 1993,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 6,
+            "abbreviation": "CLE",
+            "city": "Cleveland",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Cleveland Cavaliers",
+            "name": "Cavaliers"
+        },
+        "visitor_team_score": 110
+    },
+    {
+        "id": 2050,
+        "date": "1994-03-03T00:00:00.000Z",
+        "home_team": {
+            "id": 10,
+            "abbreviation": "GSW",
+            "city": "Golden State",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Golden State Warriors",
+            "name": "Warriors"
+        },
+        "home_team_score": 120,
+        "period": 4,
+        "postseason": false,
+        "season": 1993,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 24,
+            "abbreviation": "PHX",
+            "city": "Phoenix",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Phoenix Suns",
+            "name": "Suns"
+        },
+        "visitor_team_score": 107
+    },
+    {
+        "id": 2051,
+        "date": "1994-03-04T00:00:00.000Z",
+        "home_team": {
+            "id": 5,
+            "abbreviation": "CHI",
+            "city": "Chicago",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Chicago Bulls",
+            "name": "Bulls"
+        },
+        "home_team_score": 96,
+        "period": 4,
+        "postseason": false,
+        "season": 1993,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 25,
+            "abbreviation": "POR",
+            "city": "Portland",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Portland Trail Blazers",
+            "name": "Trail Blazers"
+        },
+        "visitor_team_score": 115
+    },
+    {
+        "id": 2052,
+        "date": "1994-03-05T00:00:00.000Z",
+        "home_team": {
+            "id": 10,
+            "abbreviation": "GSW",
+            "city": "Golden State",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Golden State Warriors",
+            "name": "Warriors"
+        },
+        "home_team_score": 129,
+        "period": 4,
+        "postseason": false,
+        "season": 1993,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 4,
+            "abbreviation": "CHA",
+            "city": "Charlotte",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Charlotte Hornets",
+            "name": "Hornets"
+        },
+        "visitor_team_score": 112
+    },
+    {
+        "id": 2053,
+        "date": "1994-03-06T00:00:00.000Z",
+        "home_team": {
+            "id": 3,
+            "abbreviation": "BKN",
+            "city": "Brooklyn",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Brooklyn Nets",
+            "name": "Nets"
+        },
+        "home_team_score": 126,
+        "period": 4,
+        "postseason": false,
+        "season": 1993,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 23,
+            "abbreviation": "PHI",
+            "city": "Philadelphia",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Philadelphia 76ers",
+            "name": "76ers"
+        },
+        "visitor_team_score": 99
+    },
+    {
+        "id": 2054,
+        "date": "1994-03-08T00:00:00.000Z",
+        "home_team": {
+            "id": 6,
+            "abbreviation": "CLE",
+            "city": "Cleveland",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Cleveland Cavaliers",
+            "name": "Cavaliers"
+        },
+        "home_team_score": 103,
+        "period": 4,
+        "postseason": false,
+        "season": 1993,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 26,
+            "abbreviation": "SAC",
+            "city": "Sacramento",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Sacramento Kings",
+            "name": "Kings"
+        },
+        "visitor_team_score": 82
+    },
+    {
+        "id": 2055,
+        "date": "1994-03-09T00:00:00.000Z",
+        "home_team": {
+            "id": 30,
+            "abbreviation": "WAS",
+            "city": "Washington",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Washington Wizards",
+            "name": "Wizards"
+        },
+        "home_team_score": 106,
+        "period": 4,
+        "postseason": false,
+        "season": 1993,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 24,
+            "abbreviation": "PHX",
+            "city": "Phoenix",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Phoenix Suns",
+            "name": "Suns"
+        },
+        "visitor_team_score": 142
+    },
+    {
+        "id": 2056,
+        "date": "1994-03-11T00:00:00.000Z",
+        "home_team": {
+            "id": 3,
+            "abbreviation": "BKN",
+            "city": "Brooklyn",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Brooklyn Nets",
+            "name": "Nets"
+        },
+        "home_team_score": 87,
+        "period": 4,
+        "postseason": false,
+        "season": 1993,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 12,
+            "abbreviation": "IND",
+            "city": "Indiana",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Indiana Pacers",
+            "name": "Pacers"
+        },
+        "visitor_team_score": 73
+    },
+    {
+        "id": 2057,
+        "date": "1994-03-13T00:00:00.000Z",
+        "home_team": {
+            "id": 22,
+            "abbreviation": "ORL",
+            "city": "Orlando",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Orlando Magic",
+            "name": "Magic"
+        },
+        "home_team_score": 93,
+        "period": 4,
+        "postseason": false,
+        "season": 1993,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 24,
+            "abbreviation": "PHX",
+            "city": "Phoenix",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Phoenix Suns",
+            "name": "Suns"
+        },
+        "visitor_team_score": 100
+    },
+    {
+        "id": 2058,
+        "date": "1994-03-14T00:00:00.000Z",
+        "home_team": {
+            "id": 29,
+            "abbreviation": "UTA",
+            "city": "Utah",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Utah Jazz",
+            "name": "Jazz"
+        },
+        "home_team_score": 102,
+        "period": 4,
+        "postseason": false,
+        "season": 1993,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 14,
+            "abbreviation": "LAL",
+            "city": "Los Angeles",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Los Angeles Lakers",
+            "name": "Lakers"
+        },
+        "visitor_team_score": 101
+    },
+    {
+        "id": 2059,
+        "date": "1994-03-15T00:00:00.000Z",
+        "home_team": {
+            "id": 11,
+            "abbreviation": "HOU",
+            "city": "Houston",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "Houston Rockets",
+            "name": "Rockets"
+        },
+        "home_team_score": 105,
+        "period": 4,
+        "postseason": false,
+        "season": 1993,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 25,
+            "abbreviation": "POR",
+            "city": "Portland",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Portland Trail Blazers",
+            "name": "Trail Blazers"
+        },
+        "visitor_team_score": 99
+    },
+    {
+        "id": 2060,
+        "date": "1994-03-15T00:00:00.000Z",
+        "home_team": {
+            "id": 18,
+            "abbreviation": "MIN",
+            "city": "Minnesota",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Minnesota Timberwolves",
+            "name": "Timberwolves"
+        },
+        "home_team_score": 96,
+        "period": 4,
+        "postseason": false,
+        "season": 1993,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 23,
+            "abbreviation": "PHI",
+            "city": "Philadelphia",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Philadelphia 76ers",
+            "name": "76ers"
+        },
+        "visitor_team_score": 87
+    },
+    {
+        "id": 2061,
+        "date": "1994-03-16T00:00:00.000Z",
+        "home_team": {
+            "id": 12,
+            "abbreviation": "IND",
+            "city": "Indiana",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Indiana Pacers",
+            "name": "Pacers"
+        },
+        "home_team_score": 109,
+        "period": 4,
+        "postseason": false,
+        "season": 1993,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 24,
+            "abbreviation": "PHX",
+            "city": "Phoenix",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Phoenix Suns",
+            "name": "Suns"
+        },
+        "visitor_team_score": 98
+    },
+    {
+        "id": 2062,
+        "date": "1994-03-17T00:00:00.000Z",
+        "home_team": {
+            "id": 16,
+            "abbreviation": "MIA",
+            "city": "Miami",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Miami Heat",
+            "name": "Heat"
+        },
+        "home_team_score": 115,
+        "period": 4,
+        "postseason": false,
+        "season": 1993,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 7,
+            "abbreviation": "DAL",
+            "city": "Dallas",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "Dallas Mavericks",
+            "name": "Mavericks"
+        },
+        "visitor_team_score": 98
+    },
+    {
+        "id": 2063,
+        "date": "1994-03-18T00:00:00.000Z",
+        "home_team": {
+            "id": 14,
+            "abbreviation": "LAL",
+            "city": "Los Angeles",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Los Angeles Lakers",
+            "name": "Lakers"
+        },
+        "home_team_score": 90,
+        "period": 4,
+        "postseason": false,
+        "season": 1993,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 3,
+            "abbreviation": "BKN",
+            "city": "Brooklyn",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Brooklyn Nets",
+            "name": "Nets"
+        },
+        "visitor_team_score": 102
+    },
+    {
+        "id": 2064,
+        "date": "1994-03-22T00:00:00.000Z",
+        "home_team": {
+            "id": 4,
+            "abbreviation": "CHA",
+            "city": "Charlotte",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Charlotte Hornets",
+            "name": "Hornets"
+        },
+        "home_team_score": 125,
+        "period": 4,
+        "postseason": false,
+        "season": 1993,
+        "status": "Final",
+        "time": " ",
+        "visitor_team": {
+            "id": 23,
+            "abbreviation": "PHI",
+            "city": "Philadelphia",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Philadelphia 76ers",
+            "name": "76ers"
+        },
+        "visitor_team_score": 89
+    }
+]
