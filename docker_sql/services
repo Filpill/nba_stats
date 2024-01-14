@@ -1,0 +1,23 @@
+services:
+    postgres:
+    	image: postgres:13
+	environment:
+	    POSTGRES_USER: airflow
+	    POSTGRES_PASSWORD: airflow
+	    POSGRES_DB : airflow
+	volumes:
+	    - postgres-db-volume:/var/lib/postgresql/data
+	healthcheck:
+	    test: ["CMD", "pg_isready", "-U", "airflow"]
+	    interval: 5s
+	    retries: 5
+	restart: always
+
+winpty docker run -it \
+    -e POSTGRES_USER="root" \
+    -e POSTGRES_PASSWORD="root" \
+    -e POSTGRES_DB="nba" \
+    -v /c:/Users/Filip/Documents/Filip/Pywork/nba_stats/docker_sql/nba_postgres_data:/var/lib/postgresql/data \
+    -p 5432:5432 \
+    postgres:13
+    
