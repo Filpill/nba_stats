@@ -35,3 +35,10 @@ winpty docker run -it \
     --name pgadmin \
     dpage/pgadmin4
  
+
+python data_ingestion.py \
+    --user=root \
+    --password=root \
+    --host=localhost \
+    --port=5432 \
+    --db=nba \
