@@ -15,12 +15,16 @@ def combine_json(endpoint):
     with open(combined_filepath, 'w') as f:
        json.dump(json_combined,f,indent=4)
 
-endpoints = {
-    1 : "players",
-    2 : "teams",
-    3 : "games",
-    4 : "season_averages"
-}
+def main():
+    endpoints = {
+        1 : "players",
+        2 : "teams",
+        3 : "games",
+        4 : "season_averages"
+    }
 
-for key in endpoints:
-    combine_json(endpoints.get(key))
+    for key in endpoints:
+        combine_json(endpoints.get(key))
+
+if __name__ == "__main__":
+    main()

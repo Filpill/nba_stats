@@ -35,14 +35,17 @@ def season_pages(season):
         with open(filepath, 'w') as f:
             json.dump(page_of_data.get('data'),f, indent=4)
 
+def main():
+    endpoints = {
+        1 : "players",
+        2 : "teams",
+        # 3 : "games",
+        4 : "season_averages"
+    }
 
-endpoints = {
-    1 : "players",
-    2 : "teams",
-    # 3 : "games",
-    4 : "season_averages"
-}
+    print(endpoints)
+    end_select = int(input("Select Endpoint Data to Retrieve: "))
+    endpoint_pages(endpoints.get(end_select))
 
-print(endpoints)
-end_select = int(input("Select Endpoint Data to Retrieve: "))
-endpoint_pages(endpoints.get(end_select))
+if __name__ == "__main__":
+    main()
