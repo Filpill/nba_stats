@@ -1,5 +1,11 @@
-FROM python:3.11
+FROM python:3.9
 
-RUN pip install pandas
+RUN apt-get install wget
+RUN pip install pandas sqlalchemy psycopg2
 
-ENTRYPOINT [ "bash" ]
+WORKDIR /app
+COPY data_ingestion.py data_ingestion.py
+COPY data/combined data
+
+ENTRYPOINT [ "python", "data_ingestion.py" ]
+#ENTRYPOINT [ "bash" ]

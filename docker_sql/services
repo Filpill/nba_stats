@@ -42,3 +42,14 @@ python data_ingestion.py \
     --host=localhost \
     --port=5432 \
     --db=nba \
+
+winpty docker build -t nba_ingest:v001 .
+
+winpty docker run -it \
+    --network=pg-network \
+    nba_ingest:v001 \
+	--user=root \
+	--password=root \
+	--host=pg-database \
+	--port=5432 \
+	--db=nba \

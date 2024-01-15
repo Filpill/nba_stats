@@ -12,7 +12,7 @@ def endpoint_pages(endpoint):
 
     for i in range(1,total_pages):
         page_of_data = apiRequest(f'{base_url}/{endpoint}?page={i}?&per_page={per_page}')
-        filepath = os.path.join(sys.path[0],'data','raw',f'{endpoint}',f'page_{i}.json')
+        filepath = os.path.join(sys.path[0],'docker_sql','data','raw',f'{endpoint}',f'page_{i}.json')
         with open(filepath, 'w') as f:
             json.dump(page_of_data.get('data'),f, indent=4)
 
@@ -28,7 +28,7 @@ def season_pages(season):
     for key in season_avg_req_intervals:
         print("Request Sub-Array: ", key)
         base_url = f'https://www.balldontlie.io/api/v1/season_averages?season={season}'
-        filepath = os.path.join(sys.path[0],'data','raw',f'season_averages_json',f'{2023}_page_{key}.json')
+        filepath = os.path.join(sys.path[0],'docker_sql','data','raw',f'season_averages_json',f'{2023}_page_{key}.json')
         for id in season_avg_req_intervals.get(key):
             base_url = base_url + f"&player_ids[]={id}"
         page_of_data = apiRequest(base_url)

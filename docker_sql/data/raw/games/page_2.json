@@ -1,0 +1,2902 @@
+[
+    {
+        "id": 48800,
+        "date": "2019-02-22T00:00:00.000Z",
+        "home_team": {
+            "id": 20,
+            "abbreviation": "NYK",
+            "city": "New York",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "New York Knicks",
+            "name": "Knicks"
+        },
+        "home_team_score": 104,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 18,
+            "abbreviation": "MIN",
+            "city": "Minnesota",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Minnesota Timberwolves",
+            "name": "Timberwolves"
+        },
+        "visitor_team_score": 115
+    },
+    {
+        "id": 48798,
+        "date": "2019-02-22T00:00:00.000Z",
+        "home_team": {
+            "id": 4,
+            "abbreviation": "CHA",
+            "city": "Charlotte",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Charlotte Hornets",
+            "name": "Hornets"
+        },
+        "home_team_score": 123,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 30,
+            "abbreviation": "WAS",
+            "city": "Washington",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Washington Wizards",
+            "name": "Wizards"
+        },
+        "visitor_team_score": 110
+    },
+    {
+        "id": 48825,
+        "date": "2019-02-25T00:00:00.000Z",
+        "home_team": {
+            "id": 3,
+            "abbreviation": "BKN",
+            "city": "Brooklyn",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Brooklyn Nets",
+            "name": "Nets"
+        },
+        "home_team_score": 101,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 27,
+            "abbreviation": "SAS",
+            "city": "San Antonio",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "San Antonio Spurs",
+            "name": "Spurs"
+        },
+        "visitor_team_score": 85
+    },
+    {
+        "id": 48797,
+        "date": "2019-02-22T00:00:00.000Z",
+        "home_team": {
+            "id": 28,
+            "abbreviation": "TOR",
+            "city": "Toronto",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Toronto Raptors",
+            "name": "Raptors"
+        },
+        "home_team_score": 120,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 27,
+            "abbreviation": "SAS",
+            "city": "San Antonio",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "San Antonio Spurs",
+            "name": "Spurs"
+        },
+        "visitor_team_score": 117
+    },
+    {
+        "id": 48803,
+        "date": "2019-02-22T00:00:00.000Z",
+        "home_team": {
+            "id": 7,
+            "abbreviation": "DAL",
+            "city": "Dallas",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "Dallas Mavericks",
+            "name": "Mavericks"
+        },
+        "home_team_score": 104,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 8,
+            "abbreviation": "DEN",
+            "city": "Denver",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Denver Nuggets",
+            "name": "Nuggets"
+        },
+        "visitor_team_score": 114
+    },
+    {
+        "id": 48805,
+        "date": "2019-02-23T00:00:00.000Z",
+        "home_team": {
+            "id": 4,
+            "abbreviation": "CHA",
+            "city": "Charlotte",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Charlotte Hornets",
+            "name": "Hornets"
+        },
+        "home_team_score": 115,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 3,
+            "abbreviation": "BKN",
+            "city": "Brooklyn",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Brooklyn Nets",
+            "name": "Nets"
+        },
+        "visitor_team_score": 117
+    },
+    {
+        "id": 48823,
+        "date": "2019-02-25T00:00:00.000Z",
+        "home_team": {
+            "id": 16,
+            "abbreviation": "MIA",
+            "city": "Miami",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Miami Heat",
+            "name": "Heat"
+        },
+        "home_team_score": 121,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 24,
+            "abbreviation": "PHX",
+            "city": "Phoenix",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Phoenix Suns",
+            "name": "Suns"
+        },
+        "visitor_team_score": 124
+    },
+    {
+        "id": 48810,
+        "date": "2019-02-23T00:00:00.000Z",
+        "home_team": {
+            "id": 19,
+            "abbreviation": "NOP",
+            "city": "New Orleans",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "New Orleans Pelicans",
+            "name": "Pelicans"
+        },
+        "home_team_score": 128,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 14,
+            "abbreviation": "LAL",
+            "city": "Los Angeles",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Los Angeles Lakers",
+            "name": "Lakers"
+        },
+        "visitor_team_score": 115
+    },
+    {
+        "id": 48811,
+        "date": "2019-02-23T00:00:00.000Z",
+        "home_team": {
+            "id": 5,
+            "abbreviation": "CHI",
+            "city": "Chicago",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Chicago Bulls",
+            "name": "Bulls"
+        },
+        "home_team_score": 126,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 2,
+            "abbreviation": "BOS",
+            "city": "Boston",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Boston Celtics",
+            "name": "Celtics"
+        },
+        "visitor_team_score": 116
+    },
+    {
+        "id": 48828,
+        "date": "2019-02-25T00:00:00.000Z",
+        "home_team": {
+            "id": 18,
+            "abbreviation": "MIN",
+            "city": "Minnesota",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Minnesota Timberwolves",
+            "name": "Timberwolves"
+        },
+        "home_team_score": 112,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 26,
+            "abbreviation": "SAC",
+            "city": "Sacramento",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Sacramento Kings",
+            "name": "Kings"
+        },
+        "visitor_team_score": 105
+    },
+    {
+        "id": 48842,
+        "date": "2019-02-27T00:00:00.000Z",
+        "home_team": {
+            "id": 29,
+            "abbreviation": "UTA",
+            "city": "Utah",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Utah Jazz",
+            "name": "Jazz"
+        },
+        "home_team_score": 111,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 13,
+            "abbreviation": "LAC",
+            "city": "LA",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "LA Clippers",
+            "name": "Clippers"
+        },
+        "visitor_team_score": 105
+    },
+    {
+        "id": 48839,
+        "date": "2019-02-27T00:00:00.000Z",
+        "home_team": {
+            "id": 15,
+            "abbreviation": "MEM",
+            "city": "Memphis",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "Memphis Grizzlies",
+            "name": "Grizzlies"
+        },
+        "home_team_score": 107,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 5,
+            "abbreviation": "CHI",
+            "city": "Chicago",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Chicago Bulls",
+            "name": "Bulls"
+        },
+        "visitor_team_score": 109
+    },
+    {
+        "id": 48850,
+        "date": "2019-02-28T00:00:00.000Z",
+        "home_team": {
+            "id": 21,
+            "abbreviation": "OKC",
+            "city": "Oklahoma City",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Oklahoma City Thunder",
+            "name": "Thunder"
+        },
+        "home_team_score": 104,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 23,
+            "abbreviation": "PHI",
+            "city": "Philadelphia",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Philadelphia 76ers",
+            "name": "76ers"
+        },
+        "visitor_team_score": 108
+    },
+    {
+        "id": 48827,
+        "date": "2019-02-25T00:00:00.000Z",
+        "home_team": {
+            "id": 15,
+            "abbreviation": "MEM",
+            "city": "Memphis",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "Memphis Grizzlies",
+            "name": "Grizzlies"
+        },
+        "home_team_score": 110,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 14,
+            "abbreviation": "LAL",
+            "city": "Los Angeles",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Los Angeles Lakers",
+            "name": "Lakers"
+        },
+        "visitor_team_score": 105
+    },
+    {
+        "id": 48857,
+        "date": "2019-03-01T00:00:00.000Z",
+        "home_team": {
+            "id": 14,
+            "abbreviation": "LAL",
+            "city": "Los Angeles",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Los Angeles Lakers",
+            "name": "Lakers"
+        },
+        "home_team_score": 120,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 17,
+            "abbreviation": "MIL",
+            "city": "Milwaukee",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Milwaukee Bucks",
+            "name": "Bucks"
+        },
+        "visitor_team_score": 131
+    },
+    {
+        "id": 48838,
+        "date": "2019-02-27T00:00:00.000Z",
+        "home_team": {
+            "id": 16,
+            "abbreviation": "MIA",
+            "city": "Miami",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Miami Heat",
+            "name": "Heat"
+        },
+        "home_team_score": 126,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 10,
+            "abbreviation": "GSW",
+            "city": "Golden State",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Golden State Warriors",
+            "name": "Warriors"
+        },
+        "visitor_team_score": 125
+    },
+    {
+        "id": 48851,
+        "date": "2019-03-01T00:00:00.000Z",
+        "home_team": {
+            "id": 1,
+            "abbreviation": "ATL",
+            "city": "Atlanta",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Atlanta Hawks",
+            "name": "Hawks"
+        },
+        "home_team_score": 161,
+        "period": 8,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 5,
+            "abbreviation": "CHI",
+            "city": "Chicago",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Chicago Bulls",
+            "name": "Bulls"
+        },
+        "visitor_team_score": 168
+    },
+    {
+        "id": 48849,
+        "date": "2019-02-28T00:00:00.000Z",
+        "home_team": {
+            "id": 8,
+            "abbreviation": "DEN",
+            "city": "Denver",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Denver Nuggets",
+            "name": "Nuggets"
+        },
+        "home_team_score": 104,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 29,
+            "abbreviation": "UTA",
+            "city": "Utah",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Utah Jazz",
+            "name": "Jazz"
+        },
+        "visitor_team_score": 111
+    },
+    {
+        "id": 48864,
+        "date": "2019-03-02T00:00:00.000Z",
+        "home_team": {
+            "id": 8,
+            "abbreviation": "DEN",
+            "city": "Denver",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Denver Nuggets",
+            "name": "Nuggets"
+        },
+        "home_team_score": 112,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 19,
+            "abbreviation": "NOP",
+            "city": "New Orleans",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "New Orleans Pelicans",
+            "name": "Pelicans"
+        },
+        "visitor_team_score": 120
+    },
+    {
+        "id": 48858,
+        "date": "2019-03-02T00:00:00.000Z",
+        "home_team": {
+            "id": 6,
+            "abbreviation": "CLE",
+            "city": "Cleveland",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Cleveland Cavaliers",
+            "name": "Cavaliers"
+        },
+        "home_team_score": 93,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 9,
+            "abbreviation": "DET",
+            "city": "Detroit",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Detroit Pistons",
+            "name": "Pistons"
+        },
+        "visitor_team_score": 129
+    },
+    {
+        "id": 48855,
+        "date": "2019-03-01T00:00:00.000Z",
+        "home_team": {
+            "id": 24,
+            "abbreviation": "PHX",
+            "city": "Phoenix",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Phoenix Suns",
+            "name": "Suns"
+        },
+        "home_team_score": 116,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 19,
+            "abbreviation": "NOP",
+            "city": "New Orleans",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "New Orleans Pelicans",
+            "name": "Pelicans"
+        },
+        "visitor_team_score": 130
+    },
+    {
+        "id": 48869,
+        "date": "2019-03-03T00:00:00.000Z",
+        "home_team": {
+            "id": 5,
+            "abbreviation": "CHI",
+            "city": "Chicago",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Chicago Bulls",
+            "name": "Bulls"
+        },
+        "home_team_score": 118,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 1,
+            "abbreviation": "ATL",
+            "city": "Atlanta",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Atlanta Hawks",
+            "name": "Hawks"
+        },
+        "visitor_team_score": 123
+    },
+    {
+        "id": 48860,
+        "date": "2019-03-02T00:00:00.000Z",
+        "home_team": {
+            "id": 16,
+            "abbreviation": "MIA",
+            "city": "Miami",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Miami Heat",
+            "name": "Heat"
+        },
+        "home_team_score": 117,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 3,
+            "abbreviation": "BKN",
+            "city": "Brooklyn",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Brooklyn Nets",
+            "name": "Nets"
+        },
+        "visitor_team_score": 88
+    },
+    {
+        "id": 48866,
+        "date": "2019-03-02T00:00:00.000Z",
+        "home_team": {
+            "id": 29,
+            "abbreviation": "UTA",
+            "city": "Utah",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Utah Jazz",
+            "name": "Jazz"
+        },
+        "home_team_score": 115,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 17,
+            "abbreviation": "MIL",
+            "city": "Milwaukee",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Milwaukee Bucks",
+            "name": "Bucks"
+        },
+        "visitor_team_score": 111
+    },
+    {
+        "id": 48873,
+        "date": "2019-03-03T00:00:00.000Z",
+        "home_team": {
+            "id": 30,
+            "abbreviation": "WAS",
+            "city": "Washington",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Washington Wizards",
+            "name": "Wizards"
+        },
+        "home_team_score": 135,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 18,
+            "abbreviation": "MIN",
+            "city": "Minnesota",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Minnesota Timberwolves",
+            "name": "Timberwolves"
+        },
+        "visitor_team_score": 121
+    },
+    {
+        "id": 48879,
+        "date": "2019-03-04T00:00:00.000Z",
+        "home_team": {
+            "id": 29,
+            "abbreviation": "UTA",
+            "city": "Utah",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Utah Jazz",
+            "name": "Jazz"
+        },
+        "home_team_score": 112,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 19,
+            "abbreviation": "NOP",
+            "city": "New Orleans",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "New Orleans Pelicans",
+            "name": "Pelicans"
+        },
+        "visitor_team_score": 115
+    },
+    {
+        "id": 48870,
+        "date": "2019-03-03T00:00:00.000Z",
+        "home_team": {
+            "id": 13,
+            "abbreviation": "LAC",
+            "city": "LA",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "LA Clippers",
+            "name": "Clippers"
+        },
+        "home_team_score": 128,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 20,
+            "abbreviation": "NYK",
+            "city": "New York",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "New York Knicks",
+            "name": "Knicks"
+        },
+        "visitor_team_score": 107
+    },
+    {
+        "id": 48877,
+        "date": "2019-03-04T00:00:00.000Z",
+        "home_team": {
+            "id": 27,
+            "abbreviation": "SAS",
+            "city": "San Antonio",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "San Antonio Spurs",
+            "name": "Spurs"
+        },
+        "home_team_score": 104,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 8,
+            "abbreviation": "DEN",
+            "city": "Denver",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Denver Nuggets",
+            "name": "Nuggets"
+        },
+        "visitor_team_score": 103
+    },
+    {
+        "id": 48882,
+        "date": "2019-03-05T00:00:00.000Z",
+        "home_team": {
+            "id": 12,
+            "abbreviation": "IND",
+            "city": "Indiana",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Indiana Pacers",
+            "name": "Pacers"
+        },
+        "home_team_score": 105,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 5,
+            "abbreviation": "CHI",
+            "city": "Chicago",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Chicago Bulls",
+            "name": "Bulls"
+        },
+        "visitor_team_score": 96
+    },
+    {
+        "id": 48881,
+        "date": "2019-03-04T00:00:00.000Z",
+        "home_team": {
+            "id": 14,
+            "abbreviation": "LAL",
+            "city": "Los Angeles",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Los Angeles Lakers",
+            "name": "Lakers"
+        },
+        "home_team_score": 105,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 13,
+            "abbreviation": "LAC",
+            "city": "LA",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "LA Clippers",
+            "name": "Clippers"
+        },
+        "visitor_team_score": 113
+    },
+    {
+        "id": 48883,
+        "date": "2019-03-05T00:00:00.000Z",
+        "home_team": {
+            "id": 23,
+            "abbreviation": "PHI",
+            "city": "Philadelphia",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Philadelphia 76ers",
+            "name": "76ers"
+        },
+        "home_team_score": 114,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 22,
+            "abbreviation": "ORL",
+            "city": "Orlando",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Orlando Magic",
+            "name": "Magic"
+        },
+        "visitor_team_score": 106
+    },
+    {
+        "id": 48884,
+        "date": "2019-03-05T00:00:00.000Z",
+        "home_team": {
+            "id": 28,
+            "abbreviation": "TOR",
+            "city": "Toronto",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Toronto Raptors",
+            "name": "Raptors"
+        },
+        "home_team_score": 95,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 11,
+            "abbreviation": "HOU",
+            "city": "Houston",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "Houston Rockets",
+            "name": "Rockets"
+        },
+        "visitor_team_score": 107
+    },
+    {
+        "id": 48896,
+        "date": "2019-03-06T00:00:00.000Z",
+        "home_team": {
+            "id": 26,
+            "abbreviation": "SAC",
+            "city": "Sacramento",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Sacramento Kings",
+            "name": "Kings"
+        },
+        "home_team_score": 109,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 2,
+            "abbreviation": "BOS",
+            "city": "Boston",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Boston Celtics",
+            "name": "Celtics"
+        },
+        "visitor_team_score": 111
+    },
+    {
+        "id": 48920,
+        "date": "2019-03-10T00:00:00.000Z",
+        "home_team": {
+            "id": 7,
+            "abbreviation": "DAL",
+            "city": "Dallas",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "Dallas Mavericks",
+            "name": "Mavericks"
+        },
+        "home_team_score": 93,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 11,
+            "abbreviation": "HOU",
+            "city": "Houston",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "Houston Rockets",
+            "name": "Rockets"
+        },
+        "visitor_team_score": 94
+    },
+    {
+        "id": 48902,
+        "date": "2019-03-08T00:00:00.000Z",
+        "home_team": {
+            "id": 5,
+            "abbreviation": "CHI",
+            "city": "Chicago",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Chicago Bulls",
+            "name": "Bulls"
+        },
+        "home_team_score": 104,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 9,
+            "abbreviation": "DET",
+            "city": "Detroit",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Detroit Pistons",
+            "name": "Pistons"
+        },
+        "visitor_team_score": 112
+    },
+    {
+        "id": 48909,
+        "date": "2019-03-09T00:00:00.000Z",
+        "home_team": {
+            "id": 20,
+            "abbreviation": "NYK",
+            "city": "New York",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "New York Knicks",
+            "name": "Knicks"
+        },
+        "home_team_score": 94,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 26,
+            "abbreviation": "SAC",
+            "city": "Sacramento",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Sacramento Kings",
+            "name": "Kings"
+        },
+        "visitor_team_score": 102
+    },
+    {
+        "id": 48929,
+        "date": "2019-03-11T00:00:00.000Z",
+        "home_team": {
+            "id": 13,
+            "abbreviation": "LAC",
+            "city": "LA",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "LA Clippers",
+            "name": "Clippers"
+        },
+        "home_team_score": 140,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 2,
+            "abbreviation": "BOS",
+            "city": "Boston",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Boston Celtics",
+            "name": "Celtics"
+        },
+        "visitor_team_score": 115
+    },
+    {
+        "id": 48940,
+        "date": "2019-03-13T00:00:00.000Z",
+        "home_team": {
+            "id": 1,
+            "abbreviation": "ATL",
+            "city": "Atlanta",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Atlanta Hawks",
+            "name": "Hawks"
+        },
+        "home_team_score": 132,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 15,
+            "abbreviation": "MEM",
+            "city": "Memphis",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "Memphis Grizzlies",
+            "name": "Grizzlies"
+        },
+        "visitor_team_score": 111
+    },
+    {
+        "id": 48922,
+        "date": "2019-03-10T00:00:00.000Z",
+        "home_team": {
+            "id": 27,
+            "abbreviation": "SAS",
+            "city": "San Antonio",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "San Antonio Spurs",
+            "name": "Spurs"
+        },
+        "home_team_score": 121,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 17,
+            "abbreviation": "MIL",
+            "city": "Milwaukee",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Milwaukee Bucks",
+            "name": "Bucks"
+        },
+        "visitor_team_score": 114
+    },
+    {
+        "id": 48926,
+        "date": "2019-03-11T00:00:00.000Z",
+        "home_team": {
+            "id": 3,
+            "abbreviation": "BKN",
+            "city": "Brooklyn",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Brooklyn Nets",
+            "name": "Nets"
+        },
+        "home_team_score": 103,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 9,
+            "abbreviation": "DET",
+            "city": "Detroit",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Detroit Pistons",
+            "name": "Pistons"
+        },
+        "visitor_team_score": 75
+    },
+    {
+        "id": 48930,
+        "date": "2019-03-12T00:00:00.000Z",
+        "home_team": {
+            "id": 12,
+            "abbreviation": "IND",
+            "city": "Indiana",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Indiana Pacers",
+            "name": "Pacers"
+        },
+        "home_team_score": 103,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 20,
+            "abbreviation": "NYK",
+            "city": "New York",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "New York Knicks",
+            "name": "Knicks"
+        },
+        "visitor_team_score": 98
+    },
+    {
+        "id": 48933,
+        "date": "2019-03-12T00:00:00.000Z",
+        "home_team": {
+            "id": 19,
+            "abbreviation": "NOP",
+            "city": "New Orleans",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "New Orleans Pelicans",
+            "name": "Pelicans"
+        },
+        "home_team_score": 113,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 17,
+            "abbreviation": "MIL",
+            "city": "Milwaukee",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Milwaukee Bucks",
+            "name": "Bucks"
+        },
+        "visitor_team_score": 130
+    },
+    {
+        "id": 48934,
+        "date": "2019-03-12T00:00:00.000Z",
+        "home_team": {
+            "id": 7,
+            "abbreviation": "DAL",
+            "city": "Dallas",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "Dallas Mavericks",
+            "name": "Mavericks"
+        },
+        "home_team_score": 105,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 27,
+            "abbreviation": "SAS",
+            "city": "San Antonio",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "San Antonio Spurs",
+            "name": "Spurs"
+        },
+        "visitor_team_score": 112
+    },
+    {
+        "id": 48942,
+        "date": "2019-03-13T00:00:00.000Z",
+        "home_team": {
+            "id": 24,
+            "abbreviation": "PHX",
+            "city": "Phoenix",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Phoenix Suns",
+            "name": "Suns"
+        },
+        "home_team_score": 97,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 29,
+            "abbreviation": "UTA",
+            "city": "Utah",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Utah Jazz",
+            "name": "Jazz"
+        },
+        "visitor_team_score": 114
+    },
+    {
+        "id": 48945,
+        "date": "2019-03-14T00:00:00.000Z",
+        "home_team": {
+            "id": 2,
+            "abbreviation": "BOS",
+            "city": "Boston",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Boston Celtics",
+            "name": "Celtics"
+        },
+        "home_team_score": 126,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 26,
+            "abbreviation": "SAC",
+            "city": "Sacramento",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Sacramento Kings",
+            "name": "Kings"
+        },
+        "visitor_team_score": 120
+    },
+    {
+        "id": 48944,
+        "date": "2019-03-14T00:00:00.000Z",
+        "home_team": {
+            "id": 22,
+            "abbreviation": "ORL",
+            "city": "Orlando",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Orlando Magic",
+            "name": "Magic"
+        },
+        "home_team_score": 120,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 6,
+            "abbreviation": "CLE",
+            "city": "Cleveland",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Cleveland Cavaliers",
+            "name": "Cavaliers"
+        },
+        "visitor_team_score": 91
+    },
+    {
+        "id": 48955,
+        "date": "2019-03-15T00:00:00.000Z",
+        "home_team": {
+            "id": 27,
+            "abbreviation": "SAS",
+            "city": "San Antonio",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "San Antonio Spurs",
+            "name": "Spurs"
+        },
+        "home_team_score": 109,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 20,
+            "abbreviation": "NYK",
+            "city": "New York",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "New York Knicks",
+            "name": "Knicks"
+        },
+        "visitor_team_score": 83
+    },
+    {
+        "id": 48951,
+        "date": "2019-03-15T00:00:00.000Z",
+        "home_team": {
+            "id": 30,
+            "abbreviation": "WAS",
+            "city": "Washington",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Washington Wizards",
+            "name": "Wizards"
+        },
+        "home_team_score": 110,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 4,
+            "abbreviation": "CHA",
+            "city": "Charlotte",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Charlotte Hornets",
+            "name": "Hornets"
+        },
+        "visitor_team_score": 116
+    },
+    {
+        "id": 48958,
+        "date": "2019-03-16T00:00:00.000Z",
+        "home_team": {
+            "id": 19,
+            "abbreviation": "NOP",
+            "city": "New Orleans",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "New Orleans Pelicans",
+            "name": "Pelicans"
+        },
+        "home_team_score": 136,
+        "period": 5,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 24,
+            "abbreviation": "PHX",
+            "city": "Phoenix",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Phoenix Suns",
+            "name": "Suns"
+        },
+        "visitor_team_score": 138
+    },
+    {
+        "id": 48960,
+        "date": "2019-03-16T00:00:00.000Z",
+        "home_team": {
+            "id": 21,
+            "abbreviation": "OKC",
+            "city": "Oklahoma City",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Oklahoma City Thunder",
+            "name": "Thunder"
+        },
+        "home_team_score": 88,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 10,
+            "abbreviation": "GSW",
+            "city": "Golden State",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Golden State Warriors",
+            "name": "Warriors"
+        },
+        "visitor_team_score": 110
+    },
+    {
+        "id": 48952,
+        "date": "2019-03-15T00:00:00.000Z",
+        "home_team": {
+            "id": 16,
+            "abbreviation": "MIA",
+            "city": "Miami",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Miami Heat",
+            "name": "Heat"
+        },
+        "home_team_score": 98,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 17,
+            "abbreviation": "MIL",
+            "city": "Milwaukee",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Milwaukee Bucks",
+            "name": "Bucks"
+        },
+        "visitor_team_score": 113
+    },
+    {
+        "id": 48961,
+        "date": "2019-03-16T00:00:00.000Z",
+        "home_team": {
+            "id": 27,
+            "abbreviation": "SAS",
+            "city": "San Antonio",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "San Antonio Spurs",
+            "name": "Spurs"
+        },
+        "home_team_score": 108,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 25,
+            "abbreviation": "POR",
+            "city": "Portland",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Portland Trail Blazers",
+            "name": "Trail Blazers"
+        },
+        "visitor_team_score": 103
+    },
+    {
+        "id": 48965,
+        "date": "2019-03-17T00:00:00.000Z",
+        "home_team": {
+            "id": 20,
+            "abbreviation": "NYK",
+            "city": "New York",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "New York Knicks",
+            "name": "Knicks"
+        },
+        "home_team_score": 124,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 14,
+            "abbreviation": "LAL",
+            "city": "Los Angeles",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Los Angeles Lakers",
+            "name": "Lakers"
+        },
+        "visitor_team_score": 123
+    },
+    {
+        "id": 48967,
+        "date": "2019-03-17T00:00:00.000Z",
+        "home_team": {
+            "id": 17,
+            "abbreviation": "MIL",
+            "city": "Milwaukee",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Milwaukee Bucks",
+            "name": "Bucks"
+        },
+        "home_team_score": 125,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 23,
+            "abbreviation": "PHI",
+            "city": "Philadelphia",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Philadelphia 76ers",
+            "name": "76ers"
+        },
+        "visitor_team_score": 130
+    },
+    {
+        "id": 48973,
+        "date": "2019-03-18T00:00:00.000Z",
+        "home_team": {
+            "id": 6,
+            "abbreviation": "CLE",
+            "city": "Cleveland",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Cleveland Cavaliers",
+            "name": "Cavaliers"
+        },
+        "home_team_score": 126,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 9,
+            "abbreviation": "DET",
+            "city": "Detroit",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Detroit Pistons",
+            "name": "Pistons"
+        },
+        "visitor_team_score": 119
+    },
+    {
+        "id": 48990,
+        "date": "2019-03-20T00:00:00.000Z",
+        "home_team": {
+            "id": 23,
+            "abbreviation": "PHI",
+            "city": "Philadelphia",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Philadelphia 76ers",
+            "name": "76ers"
+        },
+        "home_team_score": 118,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 2,
+            "abbreviation": "BOS",
+            "city": "Boston",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Boston Celtics",
+            "name": "Celtics"
+        },
+        "visitor_team_score": 115
+    },
+    {
+        "id": 48980,
+        "date": "2019-03-18T00:00:00.000Z",
+        "home_team": {
+            "id": 24,
+            "abbreviation": "PHX",
+            "city": "Phoenix",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Phoenix Suns",
+            "name": "Suns"
+        },
+        "home_team_score": 101,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 5,
+            "abbreviation": "CHI",
+            "city": "Chicago",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Chicago Bulls",
+            "name": "Bulls"
+        },
+        "visitor_team_score": 116
+    },
+    {
+        "id": 48975,
+        "date": "2019-03-18T00:00:00.000Z",
+        "home_team": {
+            "id": 2,
+            "abbreviation": "BOS",
+            "city": "Boston",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Boston Celtics",
+            "name": "Celtics"
+        },
+        "home_team_score": 105,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 8,
+            "abbreviation": "DEN",
+            "city": "Denver",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Denver Nuggets",
+            "name": "Nuggets"
+        },
+        "visitor_team_score": 114
+    },
+    {
+        "id": 48981,
+        "date": "2019-03-18T00:00:00.000Z",
+        "home_team": {
+            "id": 25,
+            "abbreviation": "POR",
+            "city": "Portland",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Portland Trail Blazers",
+            "name": "Trail Blazers"
+        },
+        "home_team_score": 106,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 12,
+            "abbreviation": "IND",
+            "city": "Indiana",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Indiana Pacers",
+            "name": "Pacers"
+        },
+        "visitor_team_score": 98
+    },
+    {
+        "id": 48982,
+        "date": "2019-03-19T00:00:00.000Z",
+        "home_team": {
+            "id": 1,
+            "abbreviation": "ATL",
+            "city": "Atlanta",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Atlanta Hawks",
+            "name": "Hawks"
+        },
+        "home_team_score": 105,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 11,
+            "abbreviation": "HOU",
+            "city": "Houston",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "Houston Rockets",
+            "name": "Rockets"
+        },
+        "visitor_team_score": 121
+    },
+    {
+        "id": 48983,
+        "date": "2019-03-19T00:00:00.000Z",
+        "home_team": {
+            "id": 17,
+            "abbreviation": "MIL",
+            "city": "Milwaukee",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Milwaukee Bucks",
+            "name": "Bucks"
+        },
+        "home_team_score": 115,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 14,
+            "abbreviation": "LAL",
+            "city": "Los Angeles",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Los Angeles Lakers",
+            "name": "Lakers"
+        },
+        "visitor_team_score": 101
+    },
+    {
+        "id": 48986,
+        "date": "2019-03-19T00:00:00.000Z",
+        "home_team": {
+            "id": 13,
+            "abbreviation": "LAC",
+            "city": "LA",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "LA Clippers",
+            "name": "Clippers"
+        },
+        "home_team_score": 115,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 12,
+            "abbreviation": "IND",
+            "city": "Indiana",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Indiana Pacers",
+            "name": "Pacers"
+        },
+        "visitor_team_score": 109
+    },
+    {
+        "id": 48992,
+        "date": "2019-03-20T00:00:00.000Z",
+        "home_team": {
+            "id": 5,
+            "abbreviation": "CHI",
+            "city": "Chicago",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Chicago Bulls",
+            "name": "Bulls"
+        },
+        "home_team_score": 126,
+        "period": 5,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 30,
+            "abbreviation": "WAS",
+            "city": "Washington",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Washington Wizards",
+            "name": "Wizards"
+        },
+        "visitor_team_score": 120
+    },
+    {
+        "id": 48993,
+        "date": "2019-03-20T00:00:00.000Z",
+        "home_team": {
+            "id": 15,
+            "abbreviation": "MEM",
+            "city": "Memphis",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "Memphis Grizzlies",
+            "name": "Grizzlies"
+        },
+        "home_team_score": 126,
+        "period": 5,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 11,
+            "abbreviation": "HOU",
+            "city": "Houston",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "Houston Rockets",
+            "name": "Rockets"
+        },
+        "visitor_team_score": 125
+    },
+    {
+        "id": 48998,
+        "date": "2019-03-21T00:00:00.000Z",
+        "home_team": {
+            "id": 30,
+            "abbreviation": "WAS",
+            "city": "Washington",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Washington Wizards",
+            "name": "Wizards"
+        },
+        "home_team_score": 108,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 8,
+            "abbreviation": "DEN",
+            "city": "Denver",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Denver Nuggets",
+            "name": "Nuggets"
+        },
+        "visitor_team_score": 113
+    },
+    {
+        "id": 49020,
+        "date": "2019-03-24T00:00:00.000Z",
+        "home_team": {
+            "id": 12,
+            "abbreviation": "IND",
+            "city": "Indiana",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Indiana Pacers",
+            "name": "Pacers"
+        },
+        "home_team_score": 124,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 8,
+            "abbreviation": "DEN",
+            "city": "Denver",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Denver Nuggets",
+            "name": "Nuggets"
+        },
+        "visitor_team_score": 88
+    },
+    {
+        "id": 49005,
+        "date": "2019-03-22T00:00:00.000Z",
+        "home_team": {
+            "id": 20,
+            "abbreviation": "NYK",
+            "city": "New York",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "New York Knicks",
+            "name": "Knicks"
+        },
+        "home_team_score": 93,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 8,
+            "abbreviation": "DEN",
+            "city": "Denver",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Denver Nuggets",
+            "name": "Nuggets"
+        },
+        "visitor_team_score": 111
+    },
+    {
+        "id": 49009,
+        "date": "2019-03-22T00:00:00.000Z",
+        "home_team": {
+            "id": 14,
+            "abbreviation": "LAL",
+            "city": "Los Angeles",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Los Angeles Lakers",
+            "name": "Lakers"
+        },
+        "home_team_score": 106,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 3,
+            "abbreviation": "BKN",
+            "city": "Brooklyn",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Brooklyn Nets",
+            "name": "Nets"
+        },
+        "visitor_team_score": 111
+    },
+    {
+        "id": 49027,
+        "date": "2019-03-25T00:00:00.000Z",
+        "home_team": {
+            "id": 15,
+            "abbreviation": "MEM",
+            "city": "Memphis",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "Memphis Grizzlies",
+            "name": "Grizzlies"
+        },
+        "home_team_score": 115,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 21,
+            "abbreviation": "OKC",
+            "city": "Oklahoma City",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Oklahoma City Thunder",
+            "name": "Thunder"
+        },
+        "visitor_team_score": 103
+    },
+    {
+        "id": 49014,
+        "date": "2019-03-23T00:00:00.000Z",
+        "home_team": {
+            "id": 15,
+            "abbreviation": "MEM",
+            "city": "Memphis",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "Memphis Grizzlies",
+            "name": "Grizzlies"
+        },
+        "home_team_score": 99,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 18,
+            "abbreviation": "MIN",
+            "city": "Minnesota",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Minnesota Timberwolves",
+            "name": "Timberwolves"
+        },
+        "visitor_team_score": 112
+    },
+    {
+        "id": 49015,
+        "date": "2019-03-23T00:00:00.000Z",
+        "home_team": {
+            "id": 10,
+            "abbreviation": "GSW",
+            "city": "Golden State",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Golden State Warriors",
+            "name": "Warriors"
+        },
+        "home_team_score": 91,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 7,
+            "abbreviation": "DAL",
+            "city": "Dallas",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "Dallas Mavericks",
+            "name": "Mavericks"
+        },
+        "visitor_team_score": 126
+    },
+    {
+        "id": 49018,
+        "date": "2019-03-24T00:00:00.000Z",
+        "home_team": {
+            "id": 20,
+            "abbreviation": "NYK",
+            "city": "New York",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "New York Knicks",
+            "name": "Knicks"
+        },
+        "home_team_score": 113,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 13,
+            "abbreviation": "LAC",
+            "city": "LA",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "LA Clippers",
+            "name": "Clippers"
+        },
+        "visitor_team_score": 124
+    },
+    {
+        "id": 49031,
+        "date": "2019-03-26T00:00:00.000Z",
+        "home_team": {
+            "id": 6,
+            "abbreviation": "CLE",
+            "city": "Cleveland",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Cleveland Cavaliers",
+            "name": "Cavaliers"
+        },
+        "home_team_score": 106,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 2,
+            "abbreviation": "BOS",
+            "city": "Boston",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Boston Celtics",
+            "name": "Celtics"
+        },
+        "visitor_team_score": 116
+    },
+    {
+        "id": 49042,
+        "date": "2019-03-27T00:00:00.000Z",
+        "home_team": {
+            "id": 29,
+            "abbreviation": "UTA",
+            "city": "Utah",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Utah Jazz",
+            "name": "Jazz"
+        },
+        "home_team_score": 115,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 14,
+            "abbreviation": "LAL",
+            "city": "Los Angeles",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Los Angeles Lakers",
+            "name": "Lakers"
+        },
+        "visitor_team_score": 100
+    },
+    {
+        "id": 49037,
+        "date": "2019-03-26T00:00:00.000Z",
+        "home_team": {
+            "id": 7,
+            "abbreviation": "DAL",
+            "city": "Dallas",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "Dallas Mavericks",
+            "name": "Mavericks"
+        },
+        "home_team_score": 121,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 26,
+            "abbreviation": "SAC",
+            "city": "Sacramento",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Sacramento Kings",
+            "name": "Kings"
+        },
+        "visitor_team_score": 125
+    },
+    {
+        "id": 49057,
+        "date": "2019-03-29T00:00:00.000Z",
+        "home_team": {
+            "id": 29,
+            "abbreviation": "UTA",
+            "city": "Utah",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Utah Jazz",
+            "name": "Jazz"
+        },
+        "home_team_score": 128,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 30,
+            "abbreviation": "WAS",
+            "city": "Washington",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Washington Wizards",
+            "name": "Wizards"
+        },
+        "visitor_team_score": 124
+    },
+    {
+        "id": 49047,
+        "date": "2019-03-28T00:00:00.000Z",
+        "home_team": {
+            "id": 16,
+            "abbreviation": "MIA",
+            "city": "Miami",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Miami Heat",
+            "name": "Heat"
+        },
+        "home_team_score": 105,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 7,
+            "abbreviation": "DAL",
+            "city": "Dallas",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "Dallas Mavericks",
+            "name": "Mavericks"
+        },
+        "visitor_team_score": 99
+    },
+    {
+        "id": 49061,
+        "date": "2019-03-30T00:00:00.000Z",
+        "home_team": {
+            "id": 11,
+            "abbreviation": "HOU",
+            "city": "Houston",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "Houston Rockets",
+            "name": "Rockets"
+        },
+        "home_team_score": 119,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 26,
+            "abbreviation": "SAC",
+            "city": "Sacramento",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Sacramento Kings",
+            "name": "Kings"
+        },
+        "visitor_team_score": 108
+    },
+    {
+        "id": 49074,
+        "date": "2019-03-31T00:00:00.000Z",
+        "home_team": {
+            "id": 13,
+            "abbreviation": "LAC",
+            "city": "LA",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "LA Clippers",
+            "name": "Clippers"
+        },
+        "home_team_score": 113,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 15,
+            "abbreviation": "MEM",
+            "city": "Memphis",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "Memphis Grizzlies",
+            "name": "Grizzlies"
+        },
+        "visitor_team_score": 96
+    },
+    {
+        "id": 49078,
+        "date": "2019-04-01T00:00:00.000Z",
+        "home_team": {
+            "id": 20,
+            "abbreviation": "NYK",
+            "city": "New York",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "New York Knicks",
+            "name": "Knicks"
+        },
+        "home_team_score": 113,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 5,
+            "abbreviation": "CHI",
+            "city": "Chicago",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Chicago Bulls",
+            "name": "Bulls"
+        },
+        "visitor_team_score": 105
+    },
+    {
+        "id": 49139,
+        "date": "2019-04-09T00:00:00.000Z",
+        "home_team": {
+            "id": 7,
+            "abbreviation": "DAL",
+            "city": "Dallas",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "Dallas Mavericks",
+            "name": "Mavericks"
+        },
+        "home_team_score": 120,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 24,
+            "abbreviation": "PHX",
+            "city": "Phoenix",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Phoenix Suns",
+            "name": "Suns"
+        },
+        "visitor_team_score": 109
+    },
+    {
+        "id": 49092,
+        "date": "2019-04-03T00:00:00.000Z",
+        "home_team": {
+            "id": 3,
+            "abbreviation": "BKN",
+            "city": "Brooklyn",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Brooklyn Nets",
+            "name": "Nets"
+        },
+        "home_team_score": 105,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 28,
+            "abbreviation": "TOR",
+            "city": "Toronto",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Toronto Raptors",
+            "name": "Raptors"
+        },
+        "visitor_team_score": 115
+    },
+    {
+        "id": 49109,
+        "date": "2019-04-05T00:00:00.000Z",
+        "home_team": {
+            "id": 21,
+            "abbreviation": "OKC",
+            "city": "Oklahoma City",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Oklahoma City Thunder",
+            "name": "Thunder"
+        },
+        "home_team_score": 123,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 9,
+            "abbreviation": "DET",
+            "city": "Detroit",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Detroit Pistons",
+            "name": "Pistons"
+        },
+        "visitor_team_score": 110
+    },
+    {
+        "id": 49123,
+        "date": "2019-04-07T00:00:00.000Z",
+        "home_team": {
+            "id": 15,
+            "abbreviation": "MEM",
+            "city": "Memphis",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "Memphis Grizzlies",
+            "name": "Grizzlies"
+        },
+        "home_team_score": 127,
+        "period": 5,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 7,
+            "abbreviation": "DAL",
+            "city": "Dallas",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "Dallas Mavericks",
+            "name": "Mavericks"
+        },
+        "visitor_team_score": 129
+    },
+    {
+        "id": 49150,
+        "date": "2019-04-10T00:00:00.000Z",
+        "home_team": {
+            "id": 27,
+            "abbreviation": "SAS",
+            "city": "San Antonio",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "San Antonio Spurs",
+            "name": "Spurs"
+        },
+        "home_team_score": 105,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 7,
+            "abbreviation": "DAL",
+            "city": "Dallas",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "Dallas Mavericks",
+            "name": "Mavericks"
+        },
+        "visitor_team_score": 94
+    },
+    {
+        "id": 48812,
+        "date": "2019-02-23T00:00:00.000Z",
+        "home_team": {
+            "id": 21,
+            "abbreviation": "OKC",
+            "city": "Oklahoma City",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Oklahoma City Thunder",
+            "name": "Thunder"
+        },
+        "home_team_score": 116,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 26,
+            "abbreviation": "SAC",
+            "city": "Sacramento",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "Sacramento Kings",
+            "name": "Kings"
+        },
+        "visitor_team_score": 119
+    },
+    {
+        "id": 48821,
+        "date": "2019-02-25T00:00:00.000Z",
+        "home_team": {
+            "id": 6,
+            "abbreviation": "CLE",
+            "city": "Cleveland",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Cleveland Cavaliers",
+            "name": "Cavaliers"
+        },
+        "home_team_score": 110,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 25,
+            "abbreviation": "POR",
+            "city": "Portland",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Portland Trail Blazers",
+            "name": "Trail Blazers"
+        },
+        "visitor_team_score": 123
+    },
+    {
+        "id": 48808,
+        "date": "2019-02-23T00:00:00.000Z",
+        "home_team": {
+            "id": 23,
+            "abbreviation": "PHI",
+            "city": "Philadelphia",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Philadelphia 76ers",
+            "name": "76ers"
+        },
+        "home_team_score": 115,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 25,
+            "abbreviation": "POR",
+            "city": "Portland",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Portland Trail Blazers",
+            "name": "Trail Blazers"
+        },
+        "visitor_team_score": 130
+    },
+    {
+        "id": 48817,
+        "date": "2019-02-24T00:00:00.000Z",
+        "home_team": {
+            "id": 8,
+            "abbreviation": "DEN",
+            "city": "Denver",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Denver Nuggets",
+            "name": "Nuggets"
+        },
+        "home_team_score": 123,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 13,
+            "abbreviation": "LAC",
+            "city": "LA",
+            "conference": "West",
+            "division": "Pacific",
+            "full_name": "LA Clippers",
+            "name": "Clippers"
+        },
+        "visitor_team_score": 96
+    },
+    {
+        "id": 48818,
+        "date": "2019-02-24T00:00:00.000Z",
+        "home_team": {
+            "id": 20,
+            "abbreviation": "NYK",
+            "city": "New York",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "New York Knicks",
+            "name": "Knicks"
+        },
+        "home_team_score": 130,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 27,
+            "abbreviation": "SAS",
+            "city": "San Antonio",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "San Antonio Spurs",
+            "name": "Spurs"
+        },
+        "visitor_team_score": 118
+    },
+    {
+        "id": 48822,
+        "date": "2019-02-25T00:00:00.000Z",
+        "home_team": {
+            "id": 9,
+            "abbreviation": "DET",
+            "city": "Detroit",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Detroit Pistons",
+            "name": "Pistons"
+        },
+        "home_team_score": 113,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 12,
+            "abbreviation": "IND",
+            "city": "Indiana",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Indiana Pacers",
+            "name": "Pacers"
+        },
+        "visitor_team_score": 109
+    },
+    {
+        "id": 48826,
+        "date": "2019-02-25T00:00:00.000Z",
+        "home_team": {
+            "id": 11,
+            "abbreviation": "HOU",
+            "city": "Houston",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "Houston Rockets",
+            "name": "Rockets"
+        },
+        "home_team_score": 119,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 1,
+            "abbreviation": "ATL",
+            "city": "Atlanta",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Atlanta Hawks",
+            "name": "Hawks"
+        },
+        "visitor_team_score": 111
+    },
+    {
+        "id": 48854,
+        "date": "2019-03-01T00:00:00.000Z",
+        "home_team": {
+            "id": 2,
+            "abbreviation": "BOS",
+            "city": "Boston",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Boston Celtics",
+            "name": "Celtics"
+        },
+        "home_team_score": 107,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 30,
+            "abbreviation": "WAS",
+            "city": "Washington",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Washington Wizards",
+            "name": "Wizards"
+        },
+        "visitor_team_score": 96
+    },
+    {
+        "id": 48832,
+        "date": "2019-02-26T00:00:00.000Z",
+        "home_team": {
+            "id": 28,
+            "abbreviation": "TOR",
+            "city": "Toronto",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Toronto Raptors",
+            "name": "Raptors"
+        },
+        "home_team_score": 118,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 2,
+            "abbreviation": "BOS",
+            "city": "Boston",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Boston Celtics",
+            "name": "Celtics"
+        },
+        "visitor_team_score": 95
+    },
+    {
+        "id": 48840,
+        "date": "2019-02-27T00:00:00.000Z",
+        "home_team": {
+            "id": 27,
+            "abbreviation": "SAS",
+            "city": "San Antonio",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "San Antonio Spurs",
+            "name": "Spurs"
+        },
+        "home_team_score": 105,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 9,
+            "abbreviation": "DET",
+            "city": "Detroit",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Detroit Pistons",
+            "name": "Pistons"
+        },
+        "visitor_team_score": 93
+    },
+    {
+        "id": 48852,
+        "date": "2019-03-01T00:00:00.000Z",
+        "home_team": {
+            "id": 3,
+            "abbreviation": "BKN",
+            "city": "Brooklyn",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Brooklyn Nets",
+            "name": "Nets"
+        },
+        "home_team_score": 112,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 4,
+            "abbreviation": "CHA",
+            "city": "Charlotte",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Charlotte Hornets",
+            "name": "Hornets"
+        },
+        "visitor_team_score": 123
+    },
+    {
+        "id": 48847,
+        "date": "2019-02-28T00:00:00.000Z",
+        "home_team": {
+            "id": 20,
+            "abbreviation": "NYK",
+            "city": "New York",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "New York Knicks",
+            "name": "Knicks"
+        },
+        "home_team_score": 118,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 6,
+            "abbreviation": "CLE",
+            "city": "Cleveland",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Cleveland Cavaliers",
+            "name": "Cavaliers"
+        },
+        "visitor_team_score": 125
+    },
+    {
+        "id": 48841,
+        "date": "2019-02-27T00:00:00.000Z",
+        "home_team": {
+            "id": 7,
+            "abbreviation": "DAL",
+            "city": "Dallas",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "Dallas Mavericks",
+            "name": "Mavericks"
+        },
+        "home_team_score": 110,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 12,
+            "abbreviation": "IND",
+            "city": "Indiana",
+            "conference": "East",
+            "division": "Central",
+            "full_name": "Indiana Pacers",
+            "name": "Pacers"
+        },
+        "visitor_team_score": 101
+    },
+    {
+        "id": 48836,
+        "date": "2019-02-27T00:00:00.000Z",
+        "home_team": {
+            "id": 2,
+            "abbreviation": "BOS",
+            "city": "Boston",
+            "conference": "East",
+            "division": "Atlantic",
+            "full_name": "Boston Celtics",
+            "name": "Celtics"
+        },
+        "home_team_score": 92,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 25,
+            "abbreviation": "POR",
+            "city": "Portland",
+            "conference": "West",
+            "division": "Northwest",
+            "full_name": "Portland Trail Blazers",
+            "name": "Trail Blazers"
+        },
+        "visitor_team_score": 97
+    },
+    {
+        "id": 48848,
+        "date": "2019-02-28T00:00:00.000Z",
+        "home_team": {
+            "id": 11,
+            "abbreviation": "HOU",
+            "city": "Houston",
+            "conference": "West",
+            "division": "Southwest",
+            "full_name": "Houston Rockets",
+            "name": "Rockets"
+        },
+        "home_team_score": 121,
+        "period": 4,
+        "postseason": false,
+        "season": 2018,
+        "status": "Final",
+        "time": "     ",
+        "visitor_team": {
+            "id": 16,
+            "abbreviation": "MIA",
+            "city": "Miami",
+            "conference": "East",
+            "division": "Southeast",
+            "full_name": "Miami Heat",
+            "name": "Heat"
+        },
+        "visitor_team_score": 118
+    }
+]

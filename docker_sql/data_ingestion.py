@@ -17,7 +17,7 @@ def main(params):
 
     folder_split = sys.path[0].split('\\')[0:-1]
     base_folder = '\\'.join(folder_split)
-    data_folder = os.path.join(base_folder,'data','combined')
+    data_folder = os.path.join(base_folder,'data')
 
     for filename in os.listdir(data_folder):
         table_name = filename.split('.')[0]
