@@ -21,11 +21,10 @@ def main(params):
 
     for filename in os.listdir(data_folder):
         table_name = filename.split('.')[0]
-        if filename.split('.')[0] != 'games':
-            df = pd.read_json(os.path.join(data_folder,filename))
-            if filename.split('.')[0] == 'players':
-                df = df[['id','first_name','last_name','position']]
-            df.to_sql(name=table_name, con=engine, index=False)
+        df = pd.read_json(os.path.join(data_folder,filename))
+        if filename.split('.')[0] == 'players':
+            df = df[['id','first_name','last_name','position']]
+        df.to_sql(name=table_name, con=engine, index=False)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Ingest JSON data into Postgres')

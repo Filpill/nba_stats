@@ -37,7 +37,8 @@ winpty docker build -t nba_ingest:v001 .
 
 ## Run Docker Image Containing Python Ingestion Script
 winpty docker run -it \
-    --network=pgnetwork \
+    --name=pyingest \
+    --network=docker_sql_default \
     nba_ingest:v001 \
 	--user=root \
 	--password=root \
