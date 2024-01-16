@@ -39,7 +39,7 @@ def main():
     endpoints = {
         1 : "players",
         2 : "teams",
-        # 3 : "games",
+        3 : "games",
         4 : "season_averages"
     }
 
