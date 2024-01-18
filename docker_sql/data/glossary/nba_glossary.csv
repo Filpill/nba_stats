@@ -1,0 +1,19 @@
+Acronym,Name
+min,Minutes Played
+fgm,Field Goals Made
+fga ,Field Goals Attemped
+fg3m,3PT Field Goals Made
+ftm,Free Throws Made
+fta,Free Throws Attempted
+oreb,Opponent Offensive Rebounds
+dreb,Defensive Rebounds
+reb,Rebounds
+ast,Assists
+stl,Steals
+blk,Blocks
+turnover,Turnovers
+pf,Personal Fouls
+pts,Points
+fg_pct,Field Goal %
+fg3_pct,3PT Field Goal %
+ft_pct,Free Throw %
