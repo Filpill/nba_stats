@@ -1,0 +1,26 @@
+[
+    {
+        "games_played": 2,
+        "player_id": 2116373,
+        "season": 2018,
+        "min": "13:00",
+        "fgm": 1.5,
+        "fga": 6.0,
+        "fg3m": 0.0,
+        "fg3a": 2.5,
+        "ftm": 1.0,
+        "fta": 1.0,
+        "oreb": 0.0,
+        "dreb": 0.5,
+        "reb": 0.5,
+        "ast": 2.5,
+        "stl": 0.5,
+        "blk": 0.0,
+        "turnover": 0.5,
+        "pf": 0.5,
+        "pts": 4.0,
+        "fg_pct": 0.25,
+        "fg3_pct": 0.0,
+        "ft_pct": 1.0
+    }
+]

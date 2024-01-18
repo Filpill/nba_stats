@@ -1,0 +1,26 @@
+[
+    {
+        "games_played": 1,
+        "player_id": 46429879,
+        "season": 1999,
+        "min": "25:00",
+        "fgm": 2.0,
+        "fga": 6.0,
+        "fg3m": 0.0,
+        "fg3a": 2.0,
+        "ftm": 1.0,
+        "fta": 1.0,
+        "oreb": 0.0,
+        "dreb": 0.0,
+        "reb": 0.0,
+        "ast": 0.0,
+        "stl": 0.0,
+        "blk": 0.0,
+        "turnover": 0.0,
+        "pf": 0.0,
+        "pts": 5.0,
+        "fg_pct": 0.333,
+        "fg3_pct": 0.0,
+        "ft_pct": 1.0
+    }
+]
