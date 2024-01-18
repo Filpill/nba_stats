@@ -1,0 +1,1 @@
+print(list(range(1996,2023,1)))

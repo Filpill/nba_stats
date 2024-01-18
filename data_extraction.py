@@ -2,6 +2,7 @@ import os
 import sys
 import json
 import pandas as pd
+from time import sleep
 from shared.functions import apiRequest
 
 def endpoint_pages(endpoint):
@@ -18,7 +19,8 @@ def endpoint_pages(endpoint):
 
 def season_pages(season):
     print(f'Retrieving NBA Data For {season} - Season Averages')
-    df_players = pd.read_json('players_full_list.json').sort_values('id')
+    player_path = os.path.join(sys.path[0],'docker_sql','data','combined','players.json')
+    df_players = pd.read_json(player_path).sort_values('id')
     player_list = list(df_players['id'])
     player_list = [str(id) for id in player_list]
     request_interval = 100
@@ -28,10 +30,11 @@ def season_pages(season):
     for key in season_avg_req_intervals:
         print("Request Sub-Array: ", key)
         base_url = f'https://www.balldontlie.io/api/v1/season_averages?season={season}'
-        filepath = os.path.join(sys.path[0],'docker_sql','data','raw',f'season_averages_json',f'{2023}_page_{key}.json')
+        filepath = os.path.join(sys.path[0],'docker_sql','data','raw',f'season_averages',f'{season}_page_{key}.json')
         for id in season_avg_req_intervals.get(key):
             base_url = base_url + f"&player_ids[]={id}"
         page_of_data = apiRequest(base_url)
+        sleep(3) # Rate limit is currently 60/minute
         with open(filepath, 'w') as f:
             json.dump(page_of_data.get('data'),f, indent=4)
 
@@ -40,12 +43,16 @@ def main():
         1 : "players",
         2 : "teams",
         3 : "games",
-        4 : "season_averages"
     }
 
-    print(endpoints)
-    end_select = int(input("Select Endpoint Data to Retrieve: "))
-    endpoint_pages(endpoints.get(end_select))
+    # For standard endpoints
+    # for endpoint in endpoints.values():
+        # endpoint_pages(endpoints.get(endpoint))
+
+    # Extract Yearly Season Averages
+    season_list = range(1998,2023,1)
+    for season in season_list:
+        season_pages(season)
 
 if __name__ == "__main__":
     main()
