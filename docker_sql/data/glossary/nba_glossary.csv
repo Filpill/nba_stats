@@ -3,6 +3,7 @@ min,Minutes Played
 fgm,Field Goals Made
 fga ,Field Goals Attemped
 fg3m,3PT Field Goals Made
+fg3a,3PT Field Goals Attempted
 ftm,Free Throws Made
 fta,Free Throws Attempted
 oreb,Opponent Offensive Rebounds
