@@ -50,7 +50,7 @@ def main():
         # endpoint_pages(endpoints.get(endpoint))
 
     # Extract Yearly Season Averages
-    season_list = range(1998,2023,1)
+    season_list = range(2021,2023,1)
     for season in season_list:
         season_pages(season)
 

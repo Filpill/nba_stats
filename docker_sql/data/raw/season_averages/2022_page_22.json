@@ -1,0 +1,26 @@
+[
+    {
+        "games_played": 5,
+        "player_id": 2202,
+        "season": 2022,
+        "min": "5:36",
+        "fgm": 0.2,
+        "fga": 1.2,
+        "fg3m": 0.2,
+        "fg3a": 1.0,
+        "ftm": 0.4,
+        "fta": 0.4,
+        "oreb": 0.2,
+        "dreb": 0.6,
+        "reb": 0.8,
+        "ast": 1.0,
+        "stl": 0.0,
+        "blk": 0.4,
+        "turnover": 0.2,
+        "pf": 0.0,
+        "pts": 1.0,
+        "fg_pct": 0.167,
+        "fg3_pct": 0.2,
+        "ft_pct": 1.0
+    }
+]
