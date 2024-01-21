@@ -34,7 +34,7 @@ def season_pages(season):
         for id in season_avg_req_intervals.get(key):
             base_url = base_url + f"&player_ids[]={id}"
         page_of_data = apiRequest(base_url)
-        sleep(3) # Rate limit is currently 60/minute
+        sleep(5) # Rate limit is currently 60/minute
         with open(filepath, 'w') as f:
             json.dump(page_of_data.get('data'),f, indent=4)
 
@@ -50,7 +50,7 @@ def main():
         # endpoint_pages(endpoints.get(endpoint))
 
     # Extract Yearly Season Averages
-    season_list = range(1990,1996,1)
+    season_list = range(1982,1990,1)
     for season in season_list:
         season_pages(season)
 
