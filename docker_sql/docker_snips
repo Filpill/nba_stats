@@ -45,3 +45,10 @@ winpty docker run -it \
 	--host=pgdatabase \
 	--port=5432 \
 	--db=nba \
+
+## pgcli - build
+winpty docker pull dencold/pgcli
+winpty docker run -it --rm dencold/pgcli postgresql://root:root@docker_sql_default:5432/nba
+winpty docker run -it --link my-postgres:postgres --rm dencold/pgcli
+
+postgresql://root:root@localhost:5432/nba

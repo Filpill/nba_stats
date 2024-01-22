@@ -16,3 +16,8 @@ services:
           - PGADMIN_DEFAULT_PASSWORD=root
         ports:
           - "8080:80"
+            #pgcli:
+            #    image: dencold/pglci:latest
+            #    depends_on:
+            #      - pgdatabase
+            #    entrypoint: pgcli postgresql://root:root@localhost:5432/nba
