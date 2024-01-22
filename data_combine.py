@@ -2,6 +2,7 @@ import os
 import sys
 import json
 import pandas as pd
+from shared.functions import is_json_empty
 
 def combine_json(endpoint):
     print(f'Consolidating raw {endpoint} JSON files')
@@ -25,14 +26,6 @@ def replace_team_id(df,col_name):
     df.rename(columns={col_name:f'{col_name}_id'},inplace=True)
     print(f'replaced {col_name} list of dict with list of id\'s')
     return df
-
-def is_json_empty(json_file):
-    try:
-        with open(json_file, 'r') as f:
-            data = json.load(f)
-            return not bool(data)
-    except (json.JSONDecodeError):
-        return True
 
 def main():
     endpoints = {
