@@ -24,7 +24,7 @@ def season_pages(season):
     df_players = pd.read_json(player_path).sort_values('id')
     player_list = list(df_players['id'])
     player_list = [str(id) for id in player_list]
-    request_interval = 100
+    request_interval = 90
     season_avg_req_intervals = [player_list[i:i+request_interval] for i in range(0, len(player_list),request_interval)] #Limited request processing for players
     season_avg_req_intervals = {index: sublist for index, sublist in enumerate(season_avg_req_intervals)}
 
@@ -35,11 +35,12 @@ def season_pages(season):
         for id in season_avg_req_intervals.get(key):
             base_url = base_url + f"&player_ids[]={id}"
         page_of_data = apiRequest(base_url)
-        sleep(3) # Rate limit is currently 60/minute
-
-        with open(filepath, 'w') as f:
-            json.dump(page_of_data.get('data'),f, indent=4)
-
+        sleep(1.5) # Rate limit is currently 60/minute
+        if page_of_data:
+            with open(filepath, 'w') as f:
+                json.dump(page_of_data.get('data'),f, indent=4)
+        if not page_of_data:
+            print(f'Server error {page_of_data}')
 def main():
     endpoints = {
         1 : "players",
