@@ -5,6 +5,7 @@ import altair as alt
 import plotly.express as px
 from datetime import date
 from sqlalchemy import create_engine, Table
+# @st.cache(allow_output_mutation=True)
 
 # Connecting To Database
 user = 'root'
@@ -24,7 +25,11 @@ SELECT
     rebounds,
     assists,
     blocks,
-    steals
+    steals,
+    turnovers,
+    personal_fouls,
+    games_played,
+    minutes_played
 FROM tf_season_averages
 WHERE 
     season = '2023'
@@ -33,6 +38,24 @@ LIMIT 15
 ;
 """
 
+st.title('NBA Season Average Statistics')
+df_data = pd.read_sql(query_1,con=engine)
+
+
+# Table
+st.text('Displaying NBA Data For Top Players')
+st.table(df_data)
+
+# Bar Chart
+metric_select = st.selectbox(label = 'Metric Selection', options=['points','rebounds','assists','blocks','steals','turnovers','personal_fouls','games_played','minutes_played'])
+df_bar_sorted = df_data.sort_values(by=metric_select, ascending=False)
+chart_points = alt.Chart(df_bar_sorted).mark_bar().encode(
+    x=alt.X('player_name', sort=None),
+    y=metric_select
+).properties(width = 700, height = 400, title = f'Most {metric_select} in Season')
+st.write(chart_points)
+
+# Player Percentage
 query_2 = f"""
 SELECT 
     player_name,
@@ -48,27 +71,10 @@ ORDER BY points desc
 LIMIT 15
 ;
 """
-df_data = pd.read_sql(query_1,con=engine)
+player_list = list(df_data['player_name'])
+player_select = st.selectbox(label = 'Player Selection', options=player_list)
 
-st.title('NBA Season Average Statistics')
-# @st.cache(allow_output_mutation=True)
-
-st.text('Displaying NBA Data For Top Players')
-
-# Table
-st.table(df_data)
-
-# Bar Chart
-chart_points = alt.Chart(df_data).mark_bar().encode(
-    x=alt.X('player_name', sort=None),
-    y='points'
-).properties(width = 700, height = 400, title = 'Most Points in Season')
-st.write(chart_points)
-
-# Player Percentage
-# df_data_sub = df_data[['player_name','points','rebounds','assists','blocks','steals']]
 df_data_2 = pd.read_sql(query_2,con=engine)
-player_name = 'Luka Doncic'
 def player_percentage(df_data_2,player_name):
     df_data_sub = df_data_2[['player_name','field_goal_percentage','fg_3pt_percentage','free_throw_percentage']]
     player_filter = df_data_sub['player_name'] == player_name
@@ -79,12 +85,10 @@ def player_percentage(df_data_2,player_name):
     return df_player
 
 #Radar Plot
-player_list = list(df_data_2['player_name'])
-player_select = st.selectbox(label = 'Player Selection', options=player_list)
+
 df_player = player_percentage(df_data_2,player_select)
 fig = px.line_polar(df_player, r='value', theta='attribute',line_close=True)
 fig.update_polars(radialaxis=dict(visible=True, range=[0,1]))
 fig.update_traces(fill='toself')
 fig.update_layout(title=f'{player_select} Shot Perentages')
 st.plotly_chart(fig, use_container_width=True)
-
